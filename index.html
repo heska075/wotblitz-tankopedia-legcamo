@@ -2,16 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>WoTB Tankopedia</title>
+        <title>Tankopedia</title>
         <link rel="stylesheet" href="css/style.css" />
-        <link rel="shortcut icon" href="img/favicon/favicon.ico" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
         </style>
     </head>
     <body>
-        <h1>World of Tanks Blitz - Tankopedia with Legendary Camouflages</h1>
+        <h1>World of Tanks Blitz - Tankopedia</h1>
 
         <div id="tabs"></div>
 
@@ -37,7 +36,13 @@
             </div>
         </div>
 
+        <footer class="page-footer">
+            <span class="game-label">Game Version</span>
+            <span class="game-version" id="gameVersion"></span>
+        </footer>
+
         <script src="js/script.js" defer></script>
         <script src="js/click_data.js" defer></script>
+        <script src="js/game_version.js" defer></script>
     </body>
 </html>
