@@ -1,4 +1,4 @@
-let nations = {}; // stores parsed sheets by nation
+let nations = {};
 
 const nationList = [
     { id: "usa",          label: "U.S.A." },
@@ -33,7 +33,6 @@ async function loadAllNations() {
     buildTabs();
 }
 
-// Build nation tabs
 function buildTabs() {
     const tabs = document.getElementById("tabs");
     tabs.innerHTML = "";
@@ -59,7 +58,6 @@ function buildTabs() {
         tabs.appendChild(btn);
     });
 
-    // auto-open first tab
     const first = tabs.querySelector("button");
     if (first) first.click();
 }
@@ -70,7 +68,6 @@ function cleanNationName(name) {
         .trim();
 }
 
-// Show tank cards for selected nation
 function showNation(nationName) {
     const grid = document.getElementById("tankGrid");
     grid.innerHTML = "";
@@ -163,7 +160,6 @@ function openPricePopup(tank, folderName, devId) {
 
     if (tank.camouflage && typeof tank.camouflage === "object") {
         Object.entries(tank.camouflage).forEach(([key, name]) => {
-            // extract skin number from "skin_01"
             const skinNumber = key.replace("skin_", "");
 
             const row = document.createElement("tr");
