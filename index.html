@@ -1,9 +1,0 @@
-<script>
-  const url = new URLSearchParams(window.location.search).get("url");
-  if (url) {
-    const cleaned = url.replace("/blitz-client/", "/");
-    window.location.href = cleaned;
-  } else {
-    document.body.innerText = "Missing URL";
-  }
-</script>
