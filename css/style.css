@@ -290,7 +290,6 @@ h2#popupTitle {
     justify-content: center;
     align-items: center;
     gap: 8px;
-
     padding: 10px 0;
     font-size: 13px;
     color: #cfcfcf;
@@ -308,3 +307,4 @@ h2#popupTitle {
     font-family: monospace;
     font-size: 12px;
 }
+
