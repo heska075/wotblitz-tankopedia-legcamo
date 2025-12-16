@@ -10,11 +10,11 @@
         "type": "Tech Tree",
         "price_credits": 6100000,
         "price_xp": 200000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 21057,
@@ -27,11 +27,11 @@
         "type": "Tech Tree",
         "price_credits": 6100000,
         "price_xp": 300000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 8513,
@@ -42,13 +42,13 @@
         "tier": "X",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 30000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 15000,
-        "sale_credits": "-",
-        "sale_gold ": 7500
+        "sale_credits": null,
+        "sale_gold": 7500
     },
     {
         "dev_id": 6209,
@@ -61,11 +61,11 @@
         "type": "Tech Tree",
         "price_credits": 6100000,
         "price_xp": 212100,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 4417,
@@ -76,13 +76,13 @@
         "tier": "X",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 15000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 15000,
-        "sale_credits": "-",
-        "sale_gold ": 7500
+        "sale_credits": null,
+        "sale_gold": 7500
     },
     {
         "dev_id": 13889,
@@ -95,11 +95,11 @@
         "type": "Tech Tree",
         "price_credits": 6100000,
         "price_xp": 290000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 1857,
@@ -112,28 +112,28 @@
         "type": "Tech Tree",
         "price_credits": 3450000,
         "price_xp": 175100,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1725000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 19521,
         "national_id": 76,
-        "letter_id": "-",
+        "letter_id": null,
         "full_name": "Bat.-Châtillon 25 t Avenir",
         "short_name": "B-C 25 t Avenir",
         "tier": "IX",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 10000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 10000,
-        "sale_credits": "-",
-        "sale_gold ": 5000
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 21825,
@@ -146,11 +146,11 @@
         "type": "Tech Tree",
         "price_credits": 3520000,
         "price_xp": 135000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1760000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 20033,
@@ -161,13 +161,13 @@
         "tier": "IX",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 10000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 10000,
-        "sale_credits": "-",
-        "sale_gold ": 5000
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 5441,
@@ -178,13 +178,13 @@
         "tier": "IX",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 10000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 10000,
-        "sale_credits": "-",
-        "sale_gold ": 5000
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 3905,
@@ -197,11 +197,11 @@
         "type": "Tech Tree",
         "price_credits": 3565000,
         "price_xp": 185000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1782500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 20801,
@@ -212,13 +212,13 @@
         "tier": "IX",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 10000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 10000,
-        "sale_credits": "-",
-        "sale_gold ": 5000
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 11073,
@@ -231,11 +231,11 @@
         "type": "Tech Tree",
         "price_credits": 3670000,
         "price_xp": 178250,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1835000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 4929,
@@ -248,11 +248,11 @@
         "type": "Tech Tree",
         "price_credits": 2370000,
         "price_xp": 113000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1185000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 22081,
@@ -263,13 +263,13 @@
         "tier": "VIII",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 17473,
@@ -280,13 +280,13 @@
         "tier": "VIII",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 21569,
@@ -299,11 +299,11 @@
         "type": "Tech Tree",
         "price_credits": 2480000,
         "price_xp": 122000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1240000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 63553,
@@ -314,13 +314,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7300,
         "restoration_credits": 2920000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 1460000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 19777,
@@ -331,13 +331,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7350,
         "restoration_credits": 2940000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 1470000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 18497,
@@ -348,13 +348,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7200,
         "restoration_credits": 2880000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 1440000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 8001,
@@ -365,13 +365,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7000,
         "restoration_credits": 2800000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 1400000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 64065,
@@ -382,13 +382,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 18241,
@@ -399,13 +399,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 16193,
@@ -416,13 +416,13 @@
         "tier": "VIII",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 3137,
@@ -435,11 +435,11 @@
         "type": "Tech Tree",
         "price_credits": 2552500,
         "price_xp": 81000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1276250,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 16705,
@@ -450,13 +450,13 @@
         "tier": "VIII",
         "class": "Heavy",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
         "restoration_credits": 3000000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 1500000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 22337,
@@ -467,13 +467,13 @@
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 17729,
@@ -484,13 +484,13 @@
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 12097,
@@ -503,11 +503,11 @@
         "type": "Tech Tree",
         "price_credits": 2570000,
         "price_xp": 70000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 1285000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 18753,
@@ -518,13 +518,13 @@
         "tier": "VIII",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 7500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 7500,
-        "sale_credits": "-",
-        "sale_gold ": 3750
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 5185,
@@ -537,11 +537,11 @@
         "type": "Tech Tree",
         "price_credits": 1345000,
         "price_xp": 67000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 672500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 16449,
@@ -552,13 +552,13 @@
         "tier": "VII",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 5000,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 5000,
-        "sale_credits": "-",
-        "sale_gold ": 2500
+        "sale_credits": null,
+        "sale_gold": 2500
     },
     {
         "dev_id": 21313,
@@ -571,11 +571,11 @@
         "type": "Tech Tree",
         "price_credits": 1400000,
         "price_xp": 65800,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 700000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 6977,
@@ -588,11 +588,11 @@
         "type": "Tech Tree",
         "price_credits": 1395000,
         "price_xp": 47590,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 697500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 10817,
@@ -605,11 +605,11 @@
         "type": "Tech Tree",
         "price_credits": 1350000,
         "price_xp": 58500,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 675000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 6465,
@@ -622,28 +622,28 @@
         "type": "Tech Tree",
         "price_credits": 875000,
         "price_xp": 25000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 437500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 19009,
         "national_id": 74,
-        "letter_id": "-",
+        "letter_id": null,
         "full_name": "AMXmas",
         "short_name": "AMXmas",
         "tier": "VI",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 1000,
-        "sale_credits": "-",
-        "sale_gold ": 500
+        "sale_credits": null,
+        "sale_gold": 500
     },
     {
         "dev_id": 17985,
@@ -654,13 +654,13 @@
         "tier": "VI",
         "class": "Medium",
         "type": "Premium",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 2900,
         "restoration_credits": 1160000,
-        "restoration_gold": "-",
+        "restoration_gold": null,
         "sale_credits": 580000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 2625,
@@ -673,28 +673,28 @@
         "type": "Tech Tree",
         "price_credits": 925000,
         "price_xp": 25000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 462500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 17217,
         "national_id": 67,
-        "letter_id": "-",
+        "letter_id": null,
         "full_name": "Eraser BP44",
         "short_name": "Eraser BP44",
         "tier": "VI",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 1000,
-        "sale_credits": "-",
-        "sale_gold ": 500
+        "sale_credits": null,
+        "sale_gold": 500
     },
     {
         "dev_id": 11585,
@@ -707,11 +707,11 @@
         "type": "Tech Tree",
         "price_credits": 900000,
         "price_xp": 25000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 20289,
@@ -722,30 +722,30 @@
         "tier": "VI",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 1000,
-        "sale_credits": "-",
-        "sale_gold ": 500
+        "sale_credits": null,
+        "sale_gold": 500
     },
     {
         "dev_id": 19265,
         "national_id": 75,
-        "letter_id": "-",
+        "letter_id": null,
         "full_name": "Charles",
         "short_name": "Charles",
         "tier": "VI",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 500,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 1000,
-        "sale_credits": "-",
-        "sale_gold ": 500
+        "sale_credits": null,
+        "sale_gold": 500
     },
     {
         "dev_id": 14145,
@@ -758,11 +758,11 @@
         "type": "Tech Tree",
         "price_credits": 400000,
         "price_xp": 10500,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 6721,
@@ -775,11 +775,11 @@
         "type": "Tech Tree",
         "price_credits": 400000,
         "price_xp": 10500,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 20545,
@@ -790,13 +790,13 @@
         "tier": "V",
         "class": "Heavy",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 250,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 500,
-        "sale_credits": "-",
-        "sale_gold ": 250
+        "sale_credits": null,
+        "sale_gold": 250
     },
     {
         "dev_id": 10049,
@@ -809,11 +809,11 @@
         "type": "Tech Tree",
         "price_credits": 400000,
         "price_xp": 7000,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 2881,
@@ -824,13 +824,13 @@
         "tier": "IV",
         "class": "Medium",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 100,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 200,
-        "sale_credits": "-",
-        "sale_gold ": 100
+        "sale_credits": null,
+        "sale_gold": 100
     },
     {
         "dev_id": 1089,
@@ -843,11 +843,11 @@
         "type": "Tech Tree",
         "price_credits": 85000,
         "price_xp": 2500,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 42500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 9793,
@@ -860,11 +860,11 @@
         "type": "Tech Tree",
         "price_credits": 85000,
         "price_xp": 2500,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 42500,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 321,
@@ -877,11 +877,11 @@
         "type": "Tech Tree",
         "price_credits": 6000,
         "price_xp": 700,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 3000,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 8257,
@@ -892,13 +892,13 @@
         "tier": "III",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 50,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 100,
-        "sale_credits": "-",
-        "sale_gold ": 50
+        "sale_credits": null,
+        "sale_gold": 50
     },
     {
         "dev_id": 2369,
@@ -909,13 +909,13 @@
         "tier": "III",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 950,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 1900,
-        "sale_credits": "-",
-        "sale_gold ": 950
+        "sale_credits": null,
+        "sale_gold": 950
     },
     {
         "dev_id": 1601,
@@ -926,13 +926,13 @@
         "tier": "II",
         "class": "Light",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 25,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 50,
-        "sale_credits": "-",
-        "sale_gold ": 25
+        "sale_credits": null,
+        "sale_gold": 25
     },
     {
         "dev_id": 5953,
@@ -945,11 +945,11 @@
         "type": "Tech Tree",
         "price_credits": 1200,
         "price_xp": 210,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 600,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 7745,
@@ -960,13 +960,13 @@
         "tier": "II",
         "class": "TD",
         "type": "Collector",
-        "price_credits": "-",
-        "price_xp": "-",
+        "price_credits": null,
+        "price_xp": null,
         "price_gold": 25,
-        "restoration_credits": "-",
+        "restoration_credits": null,
         "restoration_gold": 50,
-        "sale_credits": "-",
-        "sale_gold ": 25
+        "sale_credits": null,
+        "sale_gold": 25
     },
     {
         "dev_id": 577,
@@ -979,11 +979,11 @@
         "type": "Tech Tree",
         "price_credits": 0,
         "price_xp": 0,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 0,
-        "sale_gold ": "- "
+        "sale_gold": null
     },
     {
         "dev_id": 15937,
@@ -996,10 +996,10 @@
         "type": "Tech Tree",
         "price_credits": 0,
         "price_xp": 550,
-        "price_gold": "-",
-        "restoration_credits": "-",
-        "restoration_gold": "-",
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
         "sale_credits": 0,
-        "sale_gold ": "- "
+        "sale_gold": null
     }
 ]

@@ -1,15 +1,15 @@
 let nations = {};
 
 const nationList = [
-    { id: "usa",          label: "U.S.A." },
-    { id: "germany",      label: "Germany" },
-    { id: "ussr",         label: "U.S.S.R." },
-    { id: "uk",           label: "U.K." },
-    { id: "japan",        label: "Japan" },
-    { id: "china",        label: "China" },
-    { id: "france",       label: "France" },
-    { id: "european",     label: "European Nation" },
-    { id: "other",        label: "Hybrid Nation" }
+    { id: "usa", label: "U.S.A." },
+    { id: "germany", label: "Germany" },
+    { id: "ussr", label: "U.S.S.R." },
+    { id: "uk", label: "U.K." },
+    { id: "japan", label: "Japan" },
+    { id: "china", label: "China" },
+    { id: "france", label: "France" },
+    { id: "european", label: "European Nation" },
+    { id: "other", label: "Hybrid Nation" }
 ];
 
 window.addEventListener("DOMContentLoaded", () => {
@@ -96,9 +96,9 @@ function showNation(nationName) {
 
         card.innerHTML = `
             <img src="img/tanks/${folderName}/${devId}.webp"
-                 draggable="false"
-                 loading="lazy"
-                 onerror="this.style.display='none'">
+                draggable="false"
+                loading="lazy"
+                onerror="this.style.display='none'">
 
             <h3>${tank.short_name || tank.full_name}</h3>
             <div class="meta">Tier ${tank.tier} — ${tank.class}</div>
@@ -159,8 +159,7 @@ function openPricePopup(tank, folderName, devId) {
     camoTable.classList.add("hidden");
 
     if (tank.camouflage && typeof tank.camouflage === "object") {
-        Object.entries(tank.camouflage).forEach(([key, name]) => {
-            const skinNumber = key.replace("skin_", "");
+        Object.entries(tank.camouflage).forEach(([presetId, name]) => {
 
             const row = document.createElement("tr");
             row.innerHTML = `
@@ -168,13 +167,13 @@ function openPricePopup(tank, folderName, devId) {
                 <td>
                     <div class="camo-images">
                         <img class="tank-camo"
-                            src="img/camo/${devId}_skin_${skinNumber}.webp"
+                            src="img/camo/${devId}_${presetId}.webp"
                             draggable="false"
                             loading="lazy"
                             onerror="this.style.display='none'">
 
                         <img class="camo-icon"
-                            src="img/camo/icon/${devId}_skin_${skinNumber}.webp"
+                            src="img/camo/icon/${devId}_${presetId}.webp"
                             draggable="false"
                             loading="lazy"
                             onerror="this.style.display='none'">

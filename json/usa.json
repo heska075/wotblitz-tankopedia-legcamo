@@ -77,7 +77,7 @@
         "sale_credits": null,
         "sale_gold": 7500,
         "camouflage": {
-            "skin_01": "Rocketeer"
+            "Skin_01": "Rocketeer"
         }
     },
     {
@@ -116,7 +116,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Tireless",
+            "skin_02": "Ammoel"
+        }
     },
     {
         "dev_id": 10785,
@@ -133,7 +137,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Rebel",
+            "skin_02": "Channel 6"
+        }
     },
     {
         "dev_id": 24609,
@@ -150,7 +158,11 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Thunderbird",
+            "skin_02": "maXimal"
+        }
     },
     {
         "dev_id": 18977,
@@ -167,7 +179,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Piranha"
+        }
     },
     {
         "dev_id": 13857,
