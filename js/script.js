@@ -114,6 +114,7 @@ const popup = document.getElementById("pricePopup");
 const popupTitle = document.getElementById("popupTitle");
 const priceBody = document.getElementById("priceTableBody");
 const camoTable = document.querySelector(".camoTable");
+const camoHead = document.getElementById("camoTableHead");
 const camoBody = document.getElementById("camoTableBody");
 
 popup.querySelector(".closeBtn").onclick = () => {
@@ -158,8 +159,13 @@ function openPricePopup(tank, folderName, devId) {
     camoBody.innerHTML = "";
     camoTable.classList.add("hidden");
 
+    let hasCamo = false;
+
     if (tank.camouflage && typeof tank.camouflage === "object") {
         Object.entries(tank.camouflage).forEach(([presetId, name]) => {
+            if (!name) return;
+
+            hasCamo = true;
 
             const row = document.createElement("tr");
             row.innerHTML = `
@@ -183,7 +189,11 @@ function openPricePopup(tank, folderName, devId) {
 
             camoBody.appendChild(row);
         });
+    }
 
+    if(hasCamo) {
         camoTable.classList.remove("hidden");
     }
 }
+
+console.log("camoTable tag:", camoTable?.tagName);

@@ -31,7 +31,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Wild",
+            "skin_02": "Irbis"
+        }
     },
     {
         "dev_id": 12305,
@@ -48,7 +52,12 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Roaring",
+            "skin_02": "Monster",
+            "skin_03": "Monster Evo."
+        }
     },
     {
         "dev_id": 23313,
@@ -65,7 +74,11 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "König",
+            "skin_02": "Jäger"
+        }
     },
     {
         "dev_id": 58641,
@@ -362,23 +375,6 @@
         "letter_id": "G162",
         "full_name": "Projekt Kpz. 07P(E)",
         "short_name": "Projekt Kpz. 07P(E)",
-        "tier": "IX",
-        "class": "Heavy",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 10000,
-        "restoration_credits": null,
-        "restoration_gold": 10000,
-        "sale_credits": null,
-        "sale_gold": 5000
-    },
-    {
-        "dev_id": 21521,
-        "national_id": 84,
-        "letter_id": null,
-        "full_name": "E 75 TS",
-        "short_name": "E 75 TS",
         "tier": "IX",
         "class": "Heavy",
         "type": "Collector",
@@ -736,6 +732,23 @@
         "letter_id": null,
         "full_name": "Keiler",
         "short_name": "Keiler",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
+        "dev_id": 21521,
+        "national_id": 84,
+        "letter_id": null,
+        "full_name": "E 75 TS",
+        "short_name": "E 75 TS",
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",

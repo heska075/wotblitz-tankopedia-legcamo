@@ -201,6 +201,12 @@ h2#popupTitle {
     filter: drop-shadow(-1px -1px 4px black) brightness(115%);
 }
 
+.table-head {
+    text-decoration: underline;
+    background-color: rgba(102, 102, 102, 0.3);
+    border-radius: 5px;
+    padding: 10px 0;
+}
 
 .priceTable.camoTable {
     margin-top: 20px;
@@ -208,6 +214,7 @@ h2#popupTitle {
 
 .priceTable.camoTable.hidden {
     margin-top: 0;
+    display: none;
 }
 
 .camo-images {
@@ -247,6 +254,7 @@ h2#popupTitle {
     background: #ddd;
     cursor: pointer;
     font-size: 18px;
+    user-select: none;
 }
 
 .priceTable {

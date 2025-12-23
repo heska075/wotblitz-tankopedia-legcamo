@@ -1,7 +1,8 @@
-const GAME_VERSION = "11.4.0.57_6360835";
+// const GAME_VERSION = "11.4.0.57_6360835";
+const GAME_VERSION = "11.15.0_1_6354424";
 
-const TEST_VERSION = "11.16.0_supertest";
-// const TEST_VERSION = null;
+// const TEST_VERSION = "11.16.0_supertest";
+const TEST_VERSION = null;
 
 const versionEl = document.getElementById("gameVersion");
 
