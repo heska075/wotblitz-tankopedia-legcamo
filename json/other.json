@@ -1,5 +1,22 @@
 [
     {
+        "dev_id": 22129,
+        "national_id": 77,
+        "letter_id": "Oth91",
+        "full_name": "AC-110 Teichos",
+        "short_name": "AC Teichos",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 15000,
+        "restoration_credits": null,
+        "restoration_gold": 15000,
+        "sale_credits": null,
+        "sale_gold": 7500
+    },
+    {
         "dev_id": 19825,
         "national_id": 77,
         "letter_id": "Oth79",
