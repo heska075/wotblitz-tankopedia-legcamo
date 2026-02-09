@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", () => {
     loadAllNations();
 });
 
-document.getElementById("tankGrid").classList.add("holidayBackground");
+document.getElementById("tankGrid").classList.add("gridBackground");
 
 async function loadAllNations() {
     nations = {};
