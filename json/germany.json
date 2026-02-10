@@ -1402,7 +1402,10 @@
         "restoration_credits": 1400000,
         "restoration_gold": null,
         "sale_credits": 700000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "(-o-)"
+        }
     },
     {
         "dev_id": 24081,
@@ -1419,7 +1422,10 @@
         "restoration_credits": null,
         "restoration_gold": 1000,
         "sale_credits": null,
-        "sale_gold": 500
+        "sale_gold": 500,
+        "camouflage": {
+            "skin_01": "Barracuda"
+        }
     },
     {
         "dev_id": 15889,
@@ -1453,7 +1459,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 467500,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Football"
+        }
     },
     {
         "dev_id": 25105,
@@ -1470,7 +1479,10 @@
         "restoration_credits": null,
         "restoration_gold": 1000,
         "sale_credits": null,
-        "sale_gold": 500
+        "sale_gold": 500,
+        "camouflage": {
+            "skin_01": "Expedition"
+        }
     },
     {
         "dev_id": 22801,
@@ -1589,7 +1601,10 @@
         "restoration_credits": null,
         "restoration_gold": 1000,
         "sale_credits": null,
-        "sale_gold": 500
+        "sale_gold": 500,
+        "camouflage": {
+            "skin_01": "Sagittarius"
+        }
     },
     {
         "dev_id": 24849,
@@ -1606,7 +1621,10 @@
         "restoration_credits": null,
         "restoration_gold": 1000,
         "sale_credits": null,
-        "sale_gold": 500
+        "sale_gold": 500,
+        "camouflage": {
+            "skin_01": "Survivor"
+        }
     },
     {
         "dev_id": 5393,
@@ -1623,7 +1641,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Barrikade"
+        }
     },
     {
         "dev_id": 17,

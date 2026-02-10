@@ -14,7 +14,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Interceptor",
+            "skin_02": "Satellite"
+        }
     },
     {
         "dev_id": 16897,
@@ -31,7 +35,13 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Terror",
+            "skin_02": "?",
+            "skin_03": "?", 
+            "skin_04": "?"
+        }
     },
     {
         "dev_id": 13825,
@@ -48,7 +58,12 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Fearless",
+            "skin_02": "Cartoon Bear",
+            "skin_03": "Lollipop"
+        }
     },
     {
         "dev_id": 19969,
@@ -65,7 +80,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Uncatchable"
+        }
     },
     {
         "dev_id": 15617,
@@ -82,7 +100,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Ruthless"
+        }
     },
     {
         "dev_id": 7169,
@@ -99,7 +120,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Battle-hardened",
+            "skin_02": "Baba-Yaga"
+        }
     },
     {
         "dev_id": 6145,
