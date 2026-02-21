@@ -41,7 +41,7 @@ function buildTabs() {
         const btn = document.createElement("button");
 
         btn.innerHTML = `
-            <img class="flagIcon" src="img/flags/${nation.id}.webp" draggable="false" loading="lazy" onerror="this.style.display='none'">
+            <img class="flagIcon" src="img/flags/text/${nation.id}.webp" draggable="false" loading="lazy" onerror="this.style.display='none'">
             <span>${nation.label}</span>
         `;
 
@@ -98,7 +98,9 @@ function showNation(nationName) {
             <img src="img/tanks/${folderName}/${devId}.webp"
                 draggable="false"
                 loading="lazy"
-                onerror="this.style.display='none'">
+                data-fallback="img/tanks/00_placeholder/Placeholder.webp"
+                onerror="if (this.src.includes('00_placeholder/Placeholder.webp')) return; this.src = this.dataset.fallback;
+            ">
 
             <h3>${tank.short_name || tank.full_name}</h3>
             <div class="meta">Tier ${tank.tier} — ${tank.class}</div>
@@ -133,6 +135,11 @@ function openPricePopup(tank, folderName, devId) {
     const popupImage = document.getElementById("popupTankImage");
 
     popupImage.style.display = "";
+    popupImage.dataset.fallback = "img/tanks/00_placeholder/Placeholder.webp";
+    popupImage.onerror = function () {
+        if (this.src.includes("00_placeholder/Placeholder.webp")) return;
+        this.src = this.dataset.fallback;
+    }
     popupImage.src = `img/tanks/${folderName}/${devId}.webp`;
 
     const type = String(tank.type || "").toLowerCase();

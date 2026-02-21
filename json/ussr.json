@@ -141,7 +141,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Skilled",
+            "skin_02": "Tempest"
+        }
     },
     {
         "dev_id": 25857,
@@ -158,7 +162,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Impulse"
+        }
     },
     {
         "dev_id": 22273,
@@ -175,7 +182,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Pike"
+        }
     },
     {
         "dev_id": 14337,
@@ -192,7 +202,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Graywolf"
+        }
     },
     {
         "dev_id": 13569,
@@ -209,7 +222,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Chaser",
+            "skin_02": "Lich Lord"
+        }
     },
     {
         "dev_id": 24577,
@@ -226,7 +243,10 @@
         "restoration_credits": null,
         "restoration_gold": 15000,
         "sale_credits": null,
-        "sale_gold": 7500
+        "sale_gold": 7500,
+        "camouflage": {
+            "skin_01": "Chronos"
+        }
     },
     {
         "dev_id": 23809,
@@ -329,6 +349,23 @@
         "restoration_gold": 10000,
         "sale_credits": null,
         "sale_gold": 5000
+    },
+    {
+        "dev_id": 20993,
+        "national_id": 82,
+        "letter_id": "R63",
+        "full_name": "T-2020",
+        "short_name": "T-2020",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 12545,
@@ -676,23 +713,6 @@
         "letter_id": "R192",
         "full_name": "K-2",
         "short_name": "K-2",
-        "tier": "VIII",
-        "class": "Heavy",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 7500,
-        "restoration_credits": null,
-        "restoration_gold": 7500,
-        "sale_credits": null,
-        "sale_gold": 3750
-    },
-    {
-        "dev_id": 20993,
-        "national_id": 82,
-        "letter_id": "R63",
-        "full_name": "T-2020",
-        "short_name": "T-2020",
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",

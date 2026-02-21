@@ -14,7 +14,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3250000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Atlantis"
+        }
     },
     {
         "dev_id": 14609,
@@ -551,6 +554,23 @@
         "sale_gold": 5000
     },
     {
+        "dev_id": 22545,
+        "national_id": 88,
+        "letter_id": "G112",
+        "full_name": "Kanonenjagdpanzer 105",
+        "short_name": "Kanonenjagdpanzer",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 18449,
         "national_id": 72,
         "letter_id": "G103",
@@ -814,7 +834,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1217500,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "(A)ugmentor"
+        }
     },
     {
         "dev_id": 5137,
@@ -1008,23 +1031,6 @@
         "camouflage": {
             "skin_01": "Enduring"
         }
-    },
-    {
-        "dev_id": 22545,
-        "national_id": 88,
-        "letter_id": "G112",
-        "full_name": "Kanonenjagdpanzer 105",
-        "short_name": "Kanonenjagdpanzer",
-        "tier": "VIII",
-        "class": "TD",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 7500,
-        "restoration_credits": null,
-        "restoration_gold": 7500,
-        "sale_credits": null,
-        "sale_gold": 3750
     },
     {
         "dev_id": 19985,

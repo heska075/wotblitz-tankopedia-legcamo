@@ -388,7 +388,10 @@
         "restoration_credits": 4000000,
         "restoration_gold": null,
         "sale_credits": 2000000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Dragon Screw"
+        }
     },
     {
         "dev_id": 27425,
@@ -465,6 +468,26 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Gorgon"
+        }
+    },
+    {
+        "dev_id": 28193,
+        "national_id": 110,
+        "letter_id": "A151",
+        "full_name": "TS-60",
+        "short_name": "TS-60",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750,
+        "camouflage": {
+            "skin_01": "Dignity"
         }
     },
     {
@@ -913,26 +936,6 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "D-Gunner"
-        }
-    },
-    {
-        "dev_id": 28193,
-        "national_id": 110,
-        "letter_id": "A151",
-        "full_name": "TS-60",
-        "short_name": "TS-60",
-        "tier": "VIII",
-        "class": "TD",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 7500,
-        "restoration_credits": null,
-        "restoration_gold": 7500,
-        "sale_credits": null,
-        "sale_gold": 3750,
-        "camouflage": {
-            "skin_01": "Dignity"
         }
     },
     {

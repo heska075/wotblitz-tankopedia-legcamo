@@ -493,6 +493,23 @@
         "sale_gold": 3750
     },
     {
+        "dev_id": 22385,
+        "national_id": 87,
+        "letter_id": "Oth92",
+        "full_name": "Titan JPanther II",
+        "short_name": "Titan JPanther II",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 17265,
         "national_id": 67,
         "letter_id": "Oth69",

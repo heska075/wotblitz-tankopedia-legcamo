@@ -357,6 +357,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 12673,
+        "national_id": 49,
+        "letter_id": "S32",
+        "full_name": "Bofors Tornvagn",
+        "short_name": "Tornvagn",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 3201,
         "national_id": 12,
         "letter_id": "Pl08",
@@ -595,11 +612,11 @@
         "sale_gold": null
     },
     {
-        "dev_id": 12673,
-        "national_id": 49,
-        "letter_id": "S32",
-        "full_name": "Bofors Tornvagn",
-        "short_name": "Tornvagn",
+        "dev_id": 21889,
+        "national_id": 85,
+        "letter_id": "Pl24",
+        "full_name": "56TP",
+        "short_name": "56TP",
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",
