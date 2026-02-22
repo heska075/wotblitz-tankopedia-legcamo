@@ -38,9 +38,9 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Terror",
-            "skin_02": "?",
-            "skin_03": "?", 
-            "skin_04": "?"
+            "skin_02": "Desert Assault",
+            "skin_03": "Chthonid Alpha", 
+            "skin_04": "Chthonid Omega"
         }
     },
     {
@@ -280,7 +280,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1725000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Threat"
+        }
     },
     {
         "dev_id": 11521,
@@ -297,7 +300,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1765500,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Raroh"
+        }
     },
     {
         "dev_id": 10753,
@@ -331,7 +337,10 @@
         "restoration_credits": null,
         "restoration_gold": 10000,
         "sale_credits": null,
-        "sale_gold": 5000
+        "sale_gold": 5000,
+        "camouflage": {
+            "skin_01": "Galvanox"
+        }
     },
     {
         "dev_id": 25089,
@@ -348,7 +357,11 @@
         "restoration_credits": null,
         "restoration_gold": 10000,
         "sale_credits": null,
-        "sale_gold": 5000
+        "sale_gold": 5000,
+        "camouflage": {
+            "skin_01": "Sputnik",
+            "skin_02": "Stargazer"
+        }
     },
     {
         "dev_id": 20993,
@@ -382,7 +395,11 @@
         "restoration_credits": null,
         "restoration_gold": 10000,
         "sale_credits": null,
-        "sale_gold": 5000
+        "sale_gold": 5000,
+        "camouflage": {
+            "skin_01": "Burn",
+            "skin_02": "Monolith"
+        }
     },
     {
         "dev_id": 12033,
@@ -433,7 +450,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1205000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "A-Signaler"
+        }
     },
     {
         "dev_id": 22529,
@@ -467,7 +487,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1195000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Exceptional"
+        }
     },
     {
         "dev_id": 62977,
@@ -484,7 +507,10 @@
         "restoration_credits": 2880000,
         "restoration_gold": null,
         "sale_credits": 1440000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Hellfire"
+        }
     },
     {
         "dev_id": 59905,
@@ -501,7 +527,10 @@
         "restoration_credits": 2920000,
         "restoration_gold": null,
         "sale_credits": 1460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Origin"
+        }
     },
     {
         "dev_id": 25345,
@@ -518,7 +547,10 @@
         "restoration_credits": 2920000,
         "restoration_gold": null,
         "sale_credits": 1460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Leshy"
+        }
     },
     {
         "dev_id": 21761,
@@ -535,7 +567,10 @@
         "restoration_credits": 2920000,
         "restoration_gold": null,
         "sale_credits": 1460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Guard"
+        }
     },
     {
         "dev_id": 26881,
@@ -603,7 +638,12 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1284250,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Bear",
+            "skin_02": "Roamer",
+            "skin_03": "Helios"
+        }
     },
     {
         "dev_id": 64769,
@@ -637,7 +677,10 @@
         "restoration_credits": 600000,
         "restoration_gold": null,
         "sale_credits": 300000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Guardian"
+        }
     },
     {
         "dev_id": 53249,
@@ -671,7 +714,10 @@
         "restoration_credits": 3040000,
         "restoration_gold": null,
         "sale_credits": 1520000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Legend"
+        }
     },
     {
         "dev_id": 60417,
@@ -705,7 +751,10 @@
         "restoration_credits": null,
         "restoration_gold": 7500,
         "sale_credits": null,
-        "sale_gold": 3750
+        "sale_gold": 3750,
+        "camouflage": {
+            "skin_01": "Imperturbable"
+        }
     },
     {
         "dev_id": 27137,
@@ -739,7 +788,10 @@
         "restoration_credits": null,
         "restoration_gold": 7500,
         "sale_credits": null,
-        "sale_gold": 3750
+        "sale_gold": 3750,
+        "camouflage": {
+            "skin_01": "Vigilant"
+        }
     },
     {
         "dev_id": 9985,
@@ -773,7 +825,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1260000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Hunter",
+            "skin_02": "Tundra"
+        }
     },
     {
         "dev_id": 18945,
@@ -824,7 +880,10 @@
         "restoration_credits": null,
         "restoration_gold": 7500,
         "sale_credits": null,
-        "sale_gold": 3750
+        "sale_gold": 3750,
+        "camouflage": {
+            "skin_01": "Scarface"
+        }
     },
     {
         "dev_id": 24065,
@@ -926,7 +985,11 @@
         "restoration_credits": null,
         "restoration_gold": 5000,
         "sale_credits": null,
-        "sale_gold": 2500
+        "sale_gold": 2500,
+        "camouflage": {
+            "skin_01": "Bravery",
+            "skin_02": "Cosmic"
+        }
     },
     {
         "dev_id": 8961,
@@ -977,7 +1040,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 712000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Steppe"
+        }
     },
     {
         "dev_id": 25601,
@@ -994,7 +1060,10 @@
         "restoration_credits": 2000000,
         "restoration_gold": null,
         "sale_credits": 1000000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Trapper"
+        }
     },
     {
         "dev_id": 59137,
@@ -1011,7 +1080,10 @@
         "restoration_credits": null,
         "restoration_gold": 5000,
         "sale_credits": null,
-        "sale_gold": 2500
+        "sale_gold": 2500,
+        "camouflage": {
+            "skin_01": "Berlin"
+        }
     },
     {
         "dev_id": 10241,
@@ -1045,7 +1117,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 652500,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Taiga"
+        }
     },
     {
         "dev_id": 59649,
@@ -1198,7 +1273,12 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Menacing",
+            "skin_02": "Arronax",
+            "skin_03": "Rokot"
+        }
     },
     {
         "dev_id": 2817,
@@ -1215,7 +1295,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Football",
+            "skin_02": "Extractor"
+        }
     },
     {
         "dev_id": 23297,
@@ -1368,7 +1452,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Warrior",
+            "skin_02": "Ghost"
+        }
     },
     {
         "dev_id": 51713,
@@ -1674,7 +1762,10 @@
         "restoration_credits": null,
         "restoration_gold": 2000,
         "sale_credits": null,
-        "sale_gold": 1000
+        "sale_gold": 1000,
+        "camouflage": {
+            "skin_01": "Claw"
+        }
     },
     {
         "dev_id": 6401,
@@ -1742,7 +1833,10 @@
         "restoration_credits": null,
         "restoration_gold": 50,
         "sale_credits": null,
-        "sale_gold": 25
+        "sale_gold": 25,
+        "camouflage": {
+            "skin_01": "1926"
+        }
     },
     {
         "dev_id": 5121,
