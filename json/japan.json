@@ -34,6 +34,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 9057,
+        "national_id": 35,
+        "letter_id": "J39",
+        "full_name": "Type 5 Heavy Zetsu",
+        "short_name": "Type 5 H Zetsu",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 0,
+        "restoration_credits": null,
+        "restoration_gold": 0,
+        "sale_credits": null,
+        "sale_gold": 0
+    },
+    {
         "dev_id": 8033,
         "national_id": 31,
         "letter_id": "J20",

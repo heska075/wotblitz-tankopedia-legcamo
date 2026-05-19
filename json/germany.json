@@ -227,7 +227,8 @@
         "camouflage": {
             "skin_01": "Troublemaker",
             "skin_02": "RA1DER",
-            "skin_03": "Förster"
+            "skin_03": "Förster",
+            "skin_04": "Alex Pereira"
         }
     },
     {
@@ -475,6 +476,23 @@
         "camouflage": {
             "skin_01": "Eagle"
         }
+    },
+    {
+        "dev_id": 21265,
+        "national_id": 83,
+        "letter_id": "G138",
+        "full_name": "VK 168.01 (P)",
+        "short_name": "VK 168.01 (P)",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 16401,
@@ -901,23 +919,6 @@
         "camouflage": {
             "skin_01": "Exterminator"
         }
-    },
-    {
-        "dev_id": 21265,
-        "national_id": 83,
-        "letter_id": "G138",
-        "full_name": "VK 168.01 (P)",
-        "short_name": "VK 168.01 (P)",
-        "tier": "VIII",
-        "class": "Heavy",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 7500,
-        "restoration_credits": null,
-        "restoration_gold": 7500,
-        "sale_credits": null,
-        "sale_gold": 3750
     },
     {
         "dev_id": 16657,

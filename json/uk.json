@@ -14,7 +14,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Valiant",
+            "skin_02": "Snitcher"
+        }
     },
     {
         "dev_id": 7249,
@@ -31,7 +35,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Safari",
+            "skin_02": "Fallen"
+        }
     },
     {
         "dev_id": 6225,
@@ -422,7 +430,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1260000,
-        "sale_gold": null
+        "sale_gold": null,
+        "camouflage": {
+            "skin_01": "Palikari"
+        }
     },
     {
         "dev_id": 22865,

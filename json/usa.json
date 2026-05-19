@@ -17,7 +17,8 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Sidewinder",
-            "skin_02": "Wavebreaker"
+            "skin_02": "Wavebreaker",
+            "skin_03": "Max Holloway"
         }
     },
     {
@@ -142,6 +143,23 @@
             "skin_01": "Rebel",
             "skin_02": "Channel 6"
         }
+    },
+    {
+        "dev_id": 29985,
+        "national_id": 117,
+        "letter_id": "A178",
+        "full_name": "SPHT",
+        "short_name": "SPHT",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 0,
+        "restoration_credits": null,
+        "restoration_gold": 0,
+        "sale_credits": null,
+        "sale_gold": 0
     },
     {
         "dev_id": 24609,

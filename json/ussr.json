@@ -489,7 +489,8 @@
         "sale_credits": 1195000,
         "sale_gold": null,
         "camouflage": {
-            "skin_01": "Exceptional"
+            "skin_01": "Exceptional",
+            "skin_02": "Trench Raider"
         }
     },
     {
@@ -863,7 +864,10 @@
         "restoration_credits": null,
         "restoration_gold": 7500,
         "sale_credits": null,
-        "sale_gold": 3750
+        "sale_gold": 3750,
+        "camouflage": {
+            "skin_01": "Marusya"
+        }
     },
     {
         "dev_id": 20737,

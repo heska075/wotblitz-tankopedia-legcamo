@@ -221,6 +221,23 @@
         "sale_gold": 5000
     },
     {
+        "dev_id": 17729,
+        "national_id": 69,
+        "letter_id": "F84",
+        "full_name": "Somua SM",
+        "short_name": "Somua SM",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
+    },
+    {
         "dev_id": 11073,
         "national_id": 43,
         "letter_id": "F37",
@@ -459,11 +476,11 @@
         "sale_gold": null
     },
     {
-        "dev_id": 22337,
-        "national_id": 87,
-        "letter_id": "F140",
-        "full_name": "Sentinelle",
-        "short_name": "Sentinelle",
+        "dev_id": 22849,
+        "national_id": 89,
+        "letter_id": "F131",
+        "full_name": "Brennos",
+        "short_name": "Brennos",
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",
@@ -476,11 +493,11 @@
         "sale_gold": 3750
     },
     {
-        "dev_id": 17729,
-        "national_id": 69,
-        "letter_id": "F84",
-        "full_name": "Somua SM",
-        "short_name": "Somua SM",
+        "dev_id": 22337,
+        "national_id": 87,
+        "letter_id": "F140",
+        "full_name": "Sentinelle",
+        "short_name": "Sentinelle",
         "tier": "VIII",
         "class": "Heavy",
         "type": "Collector",
