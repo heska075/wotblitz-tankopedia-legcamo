@@ -289,6 +289,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 22401,
+        "national_id": 87,
+        "letter_id": "S37",
+        "full_name": "Ambassador",
+        "short_name": "Ambassador",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
+    },
+    {
         "dev_id": 17281,
         "national_id": 67,
         "letter_id": "It119",
@@ -355,6 +372,23 @@
         "restoration_gold": null,
         "sale_credits": 1800000,
         "sale_gold": null
+    },
+    {
+        "dev_id": 22657,
+        "national_id": 88,
+        "letter_id": "It34",
+        "full_name": "Toro",
+        "short_name": "Toro",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 12673,
@@ -491,6 +525,23 @@
         "restoration_gold": null,
         "sale_credits": 1500000,
         "sale_gold": null
+    },
+    {
+        "dev_id": 22145,
+        "national_id": 86,
+        "letter_id": "S38",
+        "full_name": "Bofors Triton",
+        "short_name": "Bofors Triton",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
     },
     {
         "dev_id": 14721,
