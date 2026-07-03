@@ -45,10 +45,10 @@
         "price_credits": null,
         "price_xp": null,
         "price_gold": 0,
-        "restoration_credits": null,
-        "restoration_gold": 0,
-        "sale_credits": null,
-        "sale_gold": 0
+        "restoration_credits": 0,
+        "restoration_gold": null,
+        "sale_credits": 0,
+        "sale_gold": null
     },
     {
         "dev_id": 8033,
