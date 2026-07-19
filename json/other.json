@@ -391,6 +391,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 24945,
+        "national_id": null,
+        "letter_id": "Oth98",
+        "full_name": "AMX 50 100 Titan",
+        "short_name": "AMX 50 100 Titan",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 22641,
         "national_id": 88,
         "letter_id": "Oth93",

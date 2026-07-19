@@ -221,6 +221,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 22913,
+        "national_id": null,
+        "letter_id": "It38",
+        "full_name": "Donnola",
+        "short_name": "Donnola",
+        "tier": "IX",
+        "class": "Light",
+        "type": "Premium",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": 4000000,
+        "restoration_gold": null,
+        "sale_credits": 2000000,
+        "sale_gold": null
+    },
+    {
         "dev_id": 15233,
         "national_id": 59,
         "letter_id": "Pl22",
@@ -372,6 +389,23 @@
         "restoration_gold": null,
         "sale_credits": 1800000,
         "sale_gold": null
+    },
+    {
+        "dev_id": 23169,
+        "national_id": null,
+        "letter_id": "Pl120",
+        "full_name": "Husarz",
+        "short_name": "Husarz",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
     },
     {
         "dev_id": 22657,
