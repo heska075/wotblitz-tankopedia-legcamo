@@ -222,7 +222,7 @@
     },
     {
         "dev_id": 22913,
-        "national_id": null,
+        "national_id": 89,
         "letter_id": "It38",
         "full_name": "Donnola",
         "short_name": "Donnola",
@@ -392,7 +392,7 @@
     },
     {
         "dev_id": 23169,
-        "national_id": null,
+        "national_id": 90,
         "letter_id": "Pl120",
         "full_name": "Husarz",
         "short_name": "Husarz",

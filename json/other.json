@@ -221,6 +221,23 @@
         "sale_gold": 1500
     },
     {
+        "dev_id": 24689,
+        "national_id": 96,
+        "letter_id": "Oth97",
+        "full_name": "星际猎人",
+        "short_name": "星际猎人",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10000,
+        "restoration_credits": null,
+        "restoration_gold": 10000,
+        "sale_credits": null,
+        "sale_gold": 5000
+    },
+    {
         "dev_id": 18545,
         "national_id": 72,
         "letter_id": "Oth74",
@@ -392,7 +409,7 @@
     },
     {
         "dev_id": 24945,
-        "national_id": null,
+        "national_id": 97,
         "letter_id": "Oth98",
         "full_name": "AMX 50 100 Titan",
         "short_name": "AMX 50 100 Titan",
