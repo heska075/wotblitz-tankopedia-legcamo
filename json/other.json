@@ -255,6 +255,23 @@
         "sale_gold": 1500
     },
     {
+        "dev_id": 24177,
+        "national_id": 94,
+        "letter_id": "Oth95",
+        "full_name": "LEY-1 Defender",
+        "short_name": "LEY-1 Defender",
+        "tier": "VIII",
+        "class": "Light",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 14449,
         "national_id": 56,
         "letter_id": "Oth47",

@@ -41,7 +41,7 @@ function buildTabs() {
         const btn = document.createElement("button");
 
         btn.innerHTML = `
-            <img class="flagIcon" src="img/flags/text/${nation.id}.webp" draggable="false" loading="lazy" onerror="this.style.display='none'">
+            <img class="flagIcon" src="img/flags/profile_stat/${nation.id}.webp" draggable="false" loading="lazy" onerror="this.style.display='none'">
             <span>${nation.label}</span>
         `;
 

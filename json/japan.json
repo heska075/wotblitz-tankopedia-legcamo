@@ -17,6 +17,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 9057,
+        "national_id": 35,
+        "letter_id": "J39",
+        "full_name": "Type 5 Heavy Zetsu",
+        "short_name": "Type 5 H Zetsu",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 6100000,
+        "price_xp": 260000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 3050000,
+        "sale_gold": null
+    },
+    {
         "dev_id": 6753,
         "national_id": 26,
         "letter_id": "J25",
@@ -31,23 +48,6 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
-    },
-    {
-        "dev_id": 9057,
-        "national_id": 35,
-        "letter_id": "J39",
-        "full_name": "Type 5 Heavy Zetsu",
-        "short_name": "Type 5 H Zetsu",
-        "tier": "X",
-        "class": "Heavy",
-        "type": "Collector",
-        "price_credits": null,
-        "price_xp": null,
-        "price_gold": 0,
-        "restoration_credits": 0,
-        "restoration_gold": null,
-        "sale_credits": 0,
         "sale_gold": null
     },
     {
@@ -119,6 +119,23 @@
         "sale_gold": 5000
     },
     {
+        "dev_id": 9313,
+        "national_id": 36,
+        "letter_id": "J40",
+        "full_name": "Type 4 Heavy",
+        "short_name": "Type 4 Heavy",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 3640000,
+        "price_xp": 160000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 1820000,
+        "sale_gold": null
+    },
+    {
         "dev_id": 6497,
         "national_id": 25,
         "letter_id": "J26",
@@ -167,6 +184,23 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1275000,
+        "sale_gold": null
+    },
+    {
+        "dev_id": 9825,
+        "national_id": 38,
+        "letter_id": "J41",
+        "full_name": "O-Ho",
+        "short_name": "O-Ho",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 2610000,
+        "price_xp": 90000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 1305000,
         "sale_gold": null
     },
     {
@@ -289,6 +323,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 9569,
+        "national_id": 37,
+        "letter_id": "J28",
+        "full_name": "O-Ni",
+        "short_name": "O-Ni",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 1450300,
+        "price_xp": 60000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 725150,
+        "sale_gold": null
+    },
+    {
         "dev_id": 5985,
         "national_id": 23,
         "letter_id": "J28",
@@ -372,6 +423,23 @@
         "restoration_gold": 500,
         "sale_credits": null,
         "sale_gold": 250
+    },
+    {
+        "dev_id": 10081,
+        "national_id": 39,
+        "letter_id": "J24",
+        "full_name": "O-I",
+        "short_name": "O-I",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 885000,
+        "price_xp": 27000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 442500,
+        "sale_gold": null
     },
     {
         "dev_id": 5729,
@@ -474,6 +542,23 @@
         "restoration_gold": 2400,
         "sale_credits": null,
         "sale_gold": 1200
+    },
+    {
+        "dev_id": 8801,
+        "national_id": 34,
+        "letter_id": "J23",
+        "full_name": "O-I Experimental",
+        "short_name": "O-I Experimental",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "price_credits": 400000,
+        "price_xp": 7000,
+        "price_gold": null,
+        "restoration_credits": null,
+        "restoration_gold": null,
+        "sale_credits": 200000,
+        "sale_gold": null
     },
     {
         "dev_id": 5473,

@@ -1,5 +1,5 @@
 // const GAME_VERSION = "null";
-const GAME_VERSION = "11.19.0_1_7326113";
+const GAME_VERSION = "11.20.0.887_7344903";
 
 // const TEST_VERSION = "null";
 const TEST_VERSION = null;

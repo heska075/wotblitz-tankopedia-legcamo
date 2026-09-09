@@ -1390,5 +1390,22 @@
         "restoration_gold": null,
         "sale_credits": 1000,
         "sale_gold": null
+    },
+    {
+        "dev_id": 25937,
+        "national_id": 101,
+        "letter_id": "GB86",
+        "full_name": "Mark I Male",
+        "short_name": "Mark I Male",
+        "tier": "I",
+        "class": "Heavy",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 10,
+        "restoration_credits": null,
+        "restoration_gold": 20,
+        "sale_credits": null,
+        "sale_gold": 10
     }
 ]

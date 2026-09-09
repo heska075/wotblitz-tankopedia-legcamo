@@ -425,6 +425,23 @@
         "sale_gold": null
     },
     {
+        "dev_id": 15409,
+        "national_id": 60,
+        "letter_id": "Ch66",
+        "full_name": "ZQ-90",
+        "short_name": "ZQ-90",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 7500,
+        "restoration_credits": null,
+        "restoration_gold": 7500,
+        "sale_credits": null,
+        "sale_gold": 3750
+    },
+    {
         "dev_id": 13617,
         "national_id": 53,
         "letter_id": "Ch60",
