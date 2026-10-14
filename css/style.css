@@ -30,12 +30,77 @@ body {
     font-family: "Inter", sans-serif;
     color: #fff;
     margin: 0;
-    padding: 20px 0 0;
     letter-spacing: 0.25px;
 }
 
 body::-webkit-scrollbar {
     display: none;
+}
+
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    background: #1b1d21;
+    color: white;
+    z-index: 1000;
+}
+
+.topbar-title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.topbar-left {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    user-select: none;
+}
+
+#menu-toggle {
+    font-size: 22px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: white;
+}
+
+.side-menu {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 220px;
+    background: #222;
+    display: none;
+    flex-direction: column;
+}
+
+.side-menu.open {
+    display: flex;
+}
+
+.side-menu a {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.side-menu a:hover {
+    background: #333;
+}
+
+.main-wrapper {
+    padding-top: 60px;
 }
 
 h1 {
@@ -48,7 +113,7 @@ h1 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 6px;
-    margin-top: 15px;
+    padding-top: 15px;
     margin-bottom: 20px;
     user-select: none;
 }
@@ -175,7 +240,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 999;
+    z-index: 1100;
 }
 
 .pricePopup.hidden {

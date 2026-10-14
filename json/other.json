@@ -31,7 +31,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3250000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 21361,
@@ -133,7 +137,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1800000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [19825],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 19569,
@@ -422,7 +430,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1300000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [20081],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 24945,
@@ -697,6 +709,23 @@
         "sale_gold": 2500
     },
     {
+        "dev_id": 24433,
+        "national_id": 96,
+        "letter_id": "Oth96",
+        "full_name": "Morbid",
+        "short_name": "Morbid",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Collector",
+        "price_credits": null,
+        "price_xp": null,
+        "price_gold": 5000,
+        "restoration_credits": null,
+        "restoration_gold": 5000,
+        "sale_credits": null,
+        "sale_gold": 2500
+    },
+    {
         "dev_id": 18033,
         "national_id": 70,
         "letter_id": "Oth72",
@@ -796,7 +825,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 745000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [20337],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 21105,
@@ -1204,7 +1237,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13937],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 15217,
@@ -1323,7 +1360,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13681],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 10097,
@@ -1374,7 +1415,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 0,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13425],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 4209,

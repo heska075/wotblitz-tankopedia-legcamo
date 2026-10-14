@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8" />
         <title>WoTB Tankopedia w/ Legendary Camouflages</title>
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
+        <!--<link rel="stylesheet" href="css/research_tree.css" type="text/css" />-->
         <link rel="shortcut icon" href="img/favicon/favicon.ico" />
         <meta property="og:url" content="/" />
         <meta property="og:type" content="website" />
@@ -16,48 +17,62 @@
         </style>
     </head>
     <body>
-        <h1>WoTB - Tankopedia w/ Legendary Camouflages</h1>
+        <header class="topbar">
+            <div class="topbar-left">
+                <button id="menu-toggle">☰</button>
 
-        <div id="tabs"></div>
-
-        <div id="holidaySeperator"></div>
-
-        <div id="tankGrid"></div>
-
-        <div id="pricePopup" class="pricePopup hidden">
-            <div class="popupWindow">
-                <button class="closeBtn">✕</button>
-
-                <h2 id="popupTitle"></h2>
-
-                <img id="popupTankImage" class="popup-tank-image" draggable="false">
-
-                <table class="priceTable">
-                    <thead>
-                        <tr>
-                            <th class="table-head" colspan="2">Pricing</th>
-                        </tr>
-                    </thead>
-                    <tbody id="priceTableBody"></tbody>
-                </table>
-
-                <table class="priceTable camoTable hidden">
-                    <thead id="camoTableHead">
-                        <tr>
-                            <th class="table-head hidden" colspan="2">Legendary Camouflage</th>
-                        </tr>
-                    </thead>
-                    <tbody id="camoTableBody"></tbody>
-                </table>
+                <div id="side-menu" class="side-menu">
+                    <a href="research_tree.html">Tech Tree</a>
+                </div>
             </div>
-        </div>
 
-        <footer class="page-footer">
-            <span class="game-label">Game Version</span>
-            <span class="game-version" id="gameVersion"></span>
-        </footer>
+            <div class="topbar-title">
+                Tankopedia w/ Legendary Camouflages
+            </div>
+        </header>
 
-        <script src="js/script.js" defer></script>
+        <main class="main-wrapper">
+            <div id="tabs"></div>
+
+            <div id="holidaySeperator"></div>
+
+            <div id="tankGrid"></div>
+
+            <div id="pricePopup" class="pricePopup hidden">
+                <div class="popupWindow">
+                    <button class="closeBtn">✕</button>
+
+                    <h2 id="popupTitle"></h2>
+
+                    <img id="popupTankImage" class="popup-tank-image" draggable="false">
+
+                    <table class="priceTable">
+                        <thead>
+                            <tr>
+                                <th class="table-head" colspan="2">Pricing</th>
+                            </tr>
+                        </thead>
+                        <tbody id="priceTableBody"></tbody>
+                    </table>
+
+                    <table class="priceTable camoTable hidden">
+                        <thead id="camoTableHead">
+                            <tr>
+                                <th class="table-head hidden" colspan="2">Legendary Camouflage</th>
+                            </tr>
+                        </thead>
+                        <tbody id="camoTableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <footer class="page-footer">
+                <span class="game-label">Game Version</span>
+                <span class="game-version" id="gameVersion"></span>
+            </footer>
+        </main>
+
+        <script type="module" src="js/script.js" defer></script>
         <script src="js/click_data.js" defer></script>
         <script src="js/game_version.js" defer></script>
     </body>

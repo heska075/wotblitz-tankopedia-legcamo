@@ -18,6 +18,9 @@
         "camouflage": {
             "skin_01": "Interceptor",
             "skin_02": "Satellite"
+        },
+        "tree": {
+            "row": 7
         }
     },
     {
@@ -41,6 +44,9 @@
             "skin_02": "Desert Assault",
             "skin_03": "Chthonid Alpha", 
             "skin_04": "Chthonid Omega"
+        },
+        "tree": {
+            "row": 5
         }
     },
     {
@@ -63,6 +69,9 @@
             "skin_01": "Fearless",
             "skin_02": "Cartoon Bear",
             "skin_03": "Lollipop"
+        },
+        "tree": {
+            "row": 6
         }
     },
     {
@@ -124,6 +133,9 @@
         "camouflage": {
             "skin_01": "Battle-hardened",
             "skin_02": "Baba-Yaga"
+        },
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -145,6 +157,9 @@
         "camouflage": {
             "skin_01": "Skilled",
             "skin_02": "Tempest"
+        },
+        "tree": {
+            "row": 4
         }
     },
     {
@@ -205,6 +220,9 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Graywolf"
+        },
+        "tree": {
+            "row": 2
         }
     },
     {
@@ -226,6 +244,9 @@
         "camouflage": {
             "skin_01": "Chaser",
             "skin_02": "Lich Lord"
+        },
+        "tree": {
+            "row": 1
         }
     },
     {
@@ -263,7 +284,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1725000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [24321],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 7937,
@@ -283,6 +308,10 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Threat"
+        },
+        "next": [13825, 16897],
+        "tree": {
+            "row": 6
         }
     },
     {
@@ -303,6 +332,10 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Raroh"
+        },
+        "next": [7169],
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -320,7 +353,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1780500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [6145],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 28673,
@@ -390,11 +427,11 @@
         "type": "Collector",
         "price_credits": null,
         "price_xp": null,
-        "price_gold": 7500,
+        "price_gold": 10000,
         "restoration_credits": null,
-        "restoration_gold": 7500,
+        "restoration_gold": 10000,
         "sale_credits": null,
-        "sale_gold": 3750
+        "sale_gold": 5000
     },
     {
         "dev_id": 12545,
@@ -432,7 +469,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1755000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [14337],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 8193,
@@ -449,7 +490,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1830000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13569],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 18177,
@@ -469,6 +514,10 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "A-Signaler"
+        },
+        "next": [7937, 23809],
+        "tree": {
+            "row": 7
         }
     },
     {
@@ -507,6 +556,10 @@
         "camouflage": {
             "skin_01": "Exceptional",
             "skin_02": "Trench Raider"
+        },
+        "next": [7937],
+        "tree": {
+            "row": 5
         }
     },
     {
@@ -638,7 +691,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1215000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [10753],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 5377,
@@ -660,6 +717,10 @@
             "skin_01": "Bear",
             "skin_02": "Roamer",
             "skin_03": "Helios"
+        },
+        "next": [11521],
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -734,6 +795,9 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Legend"
+        },
+        "tree": {
+            "row": 0
         }
     },
     {
@@ -825,7 +889,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1280000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [12033],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 7425,
@@ -846,6 +914,10 @@
         "camouflage": {
             "skin_01": "Hunter",
             "skin_02": "Tundra"
+        },
+        "next": [8193],
+        "tree": {
+            "row": 1
         }
     },
     {
@@ -937,7 +1009,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 690000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [18177],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 18433,
@@ -954,7 +1030,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 690000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [18177],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 6657,
@@ -971,7 +1051,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 677500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [4353],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 64001,
@@ -1060,7 +1144,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 695000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [11009],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 513,
@@ -1080,6 +1168,10 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Steppe"
+        },
+        "next": [5377],
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -1137,7 +1229,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 682500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [9985],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 2305,
@@ -1157,6 +1253,10 @@
         "sale_gold": null,
         "camouflage": {
             "skin_01": "Taiga"
+        },
+        "next": [7425],
+        "tree": {
+            "row": 1
         }
     },
     {
@@ -1208,7 +1308,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 440000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [18433, 24065],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 2561,
@@ -1225,7 +1329,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 457500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [6657],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 64257,
@@ -1315,6 +1423,10 @@
             "skin_01": "Menacing",
             "skin_02": "Arronax",
             "skin_03": "Rokot"
+        },
+        "next": [5889],
+        "tree": {
+            "row": 4
         }
     },
     {
@@ -1336,6 +1448,10 @@
         "camouflage": {
             "skin_01": "Football",
             "skin_02": "Extractor"
+        },
+        "next": [513, 5889],
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -1404,7 +1520,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 454450,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [2305, 10241],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 54785,
@@ -1438,7 +1558,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [2561, 16641],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 51457,
@@ -1455,7 +1579,10 @@
         "restoration_credits": 960000,
         "restoration_gold": null,
         "sale_credits": 480000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 0
+        }
     },
     {
         "dev_id": 23041,
@@ -1493,6 +1620,10 @@
         "camouflage": {
             "skin_01": "Warrior",
             "skin_02": "Ghost"
+        },
+        "next": [2817, 10497],
+        "tree": {
+            "row": 3
         }
     },
     {
@@ -1544,7 +1675,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [3585],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 53761,
@@ -1578,7 +1713,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 42500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1, 11777],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 52481,
@@ -1646,7 +1785,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 42500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [257],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 769,
@@ -1663,7 +1806,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [2049, 6913],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 60929,
@@ -1836,7 +1983,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 600,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [769],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 54529,
@@ -1907,7 +2058,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 0,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1025],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 3329,

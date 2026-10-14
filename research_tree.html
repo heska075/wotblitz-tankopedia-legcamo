@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <title>WoTB Tech Tree</title>
+        <link rel="shortcut icon" href="img/favicon/favicon.ico" />
+        <meta property="og:url" content="/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="WoTB Tech Tree" />
+        <meta property="og:description" content="A page that was made to re-create the tech tree from World of Tanks Blitz." />
+        <meta property="og:image" content="https://raw.githubusercontent.com/heska075/wotblitz-tankopedia-legcamo/refs/heads/main/img/site/heska075.github.io.png" />
+
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
+        <link rel="stylesheet" href="css/research_tree.css" type="text/css" />
+    </head>
+    <body>
+        <header class="topbar">
+            <div class="topbar-left">
+                <button id="menu-toggle">☰</button>
+
+                <div id="side-menu" class="side-menu">
+                    <a href="index.html">Tankopedia</a>
+                </div>
+            </div>
+
+            <div class="topbar-title">
+                Tech Tree
+            </div>
+
+            <div class="topbar-right">
+                <select id="version-selector">
+                    <option value="current">Current</option>
+                    <option value="5.4">5.4</option>
+                </select>
+            </div>
+        </header>
+
+        <main class="research-page">
+            <aside id="nation-selector"></aside>
+            <section class="tree-wrapper">
+                <svg id="tree-lines"></svg>
+                <div id="research-tree"></div>
+            </section>
+        </main>
+
+        <script type="module" src="js/switch_nation_tree.js"></script>
+        <script type="module" src="js/research_tree.js"></script>
+    </body>
+</html>

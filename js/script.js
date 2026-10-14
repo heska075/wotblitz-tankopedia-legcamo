@@ -1,16 +1,22 @@
+import { nationList } from "./nations.js";
+
 let nations = {};
 
-const nationList = [
-    { id: "usa", label: "U.S.A." },
-    { id: "germany", label: "Germany" },
-    { id: "ussr", label: "U.S.S.R." },
-    { id: "uk", label: "U.K." },
-    { id: "japan", label: "Japan" },
-    { id: "china", label: "China" },
-    { id: "france", label: "France" },
-    { id: "european", label: "European Nation" },
-    { id: "other", label: "Hybrid Nation" }
-];
+const menuToggle =
+    document.getElementById("menu-toggle");
+
+const sideMenu =
+    document.getElementById("side-menu");
+
+if (menuToggle && sideMenu) {
+
+    menuToggle.addEventListener(
+        "click",
+        () => {
+            sideMenu.classList.toggle("open");
+        }
+    );
+}
 
 window.addEventListener("DOMContentLoaded", () => {
     loadAllNations();
@@ -98,8 +104,8 @@ function showNation(nationName) {
             <img src="img/tanks/${folderName}/${devId}.webp"
                 draggable="false"
                 loading="lazy"
-                data-fallback="img/tanks/00_placeholder/Placeholder.webp"
-                onerror="if (this.src.includes('00_placeholder/Placeholder.webp')) return; this.src = this.dataset.fallback;
+                data-fallback="img/tanks/placeholder/Placeholder.webp"
+                onerror="if (this.src.includes('placeholder/Placeholder.webp')) return; this.src = this.dataset.fallback;
             ">
 
             <h3>${tank.short_name || tank.full_name}</h3>
@@ -135,9 +141,9 @@ function openPricePopup(tank, folderName, devId) {
     const popupImage = document.getElementById("popupTankImage");
 
     popupImage.style.display = "";
-    popupImage.dataset.fallback = "img/tanks/00_placeholder/Placeholder.webp";
+    popupImage.dataset.fallback = "img/tanks/placeholder/Placeholder.webp";
     popupImage.onerror = function () {
-        if (this.src.includes("00_placeholder/Placeholder.webp")) return;
+        if (this.src.includes("placeholder/Placeholder.webp")) return;
         this.src = this.dataset.fallback;
     }
     popupImage.src = `img/tanks/${folderName}/${devId}.webp`;

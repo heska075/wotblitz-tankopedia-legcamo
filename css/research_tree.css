@@ -1,0 +1,242 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    background: #1b1d21;
+    color: white;
+    z-index: 1000;
+}
+
+.topbar-title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.topbar-left, .topbar-right {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    user-select: none;
+}
+
+.topbar-right {
+    justify-content: flex-end;
+}
+
+#version-selector {
+    padding: 6px 10px;
+    border-radius: 5px;
+}
+
+#menu-toggle {
+    font-size: 22px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: white;
+}
+
+.side-menu {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 220px;
+    background: #222;
+    display: none;
+    flex-direction: column;
+}
+
+.side-menu.open {
+    display: flex;
+}
+
+.side-menu a {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.side-menu a:hover {
+    background: #333;
+}
+
+.research-page {
+    display: flex;
+    padding-top: 60px;
+    overflow: hidden;
+}
+
+#research-tree {
+    position: relative;
+    min-width: auto;
+}
+
+#premium-background {
+    position: absolute;
+    left: -20px;
+    right: 0;
+    z-index: 0;
+    background: linear-gradient(180deg, rgba(180,140,40,0.30) 0%, rgba(140,100,20,0.22) 100%);
+    border-bottom: 1px solid rgba(220, 180, 80, .35);
+    opacity: 0.75;
+}
+
+.tree-wrapper {
+    position: relative;
+    overflow: auto;
+    flex: 1;
+    margin-left: 80px;
+    height: calc(100vh - 60px);
+    z-index: 1;
+}
+
+.tank-node {
+    position: absolute;
+    width: 220px;
+    height: 90px;
+    border: 1px solid #666;
+    background: linear-gradient(180deg, #1B3920, #204424);
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.tank-node.premium {
+    background: linear-gradient(180deg, #794401, #794D07);
+    color: gold;
+    border: 1px solid #7C5A25;
+}
+
+.tank-node.collector {
+    background: linear-gradient(180deg, #004162, #004E6D);
+    color: #00b7ff;
+    border: 1px solid #657386;
+}
+
+.tank-info {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.tank-info strong {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 15px;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.tank-info div {
+    font-size: 15px;
+}
+
+.tank-meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.tank-class-icon {
+    width: 24px;
+    height: 23px;
+    display: inline-block;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+}
+
+.tt-image {
+    position: absolute;
+    width: 120px;
+    height: 75px;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    user-select: none;
+}
+
+#tree-lines {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+    margin-left: 10px;
+}
+
+#research-tree {
+    position: relative;
+    z-index: 2;
+    margin-left: 10px;
+}
+
+#nation-selector {
+    position: fixed;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0 20px 0;
+    background: rgba(27,29,33);
+    height: stretch;
+    z-index: 10;
+    top: 60px;
+}
+
+.nation-button {
+    width: 52px;
+    height: 52px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.nation-button img {
+    width: 75%;
+    height: 75%;
+    object-fit: contain;
+    user-select: none;
+}
+
+.nation-button.active::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -14px;
+    width: 4px;
+    height: 100%;
+    background: orange;
+}

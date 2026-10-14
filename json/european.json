@@ -14,7 +14,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 5505,
@@ -31,7 +34,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 385,
@@ -48,7 +54,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 8
+        }
     },
     {
         "dev_id": 18049,
@@ -99,7 +108,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 13185,
@@ -116,7 +128,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3250000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 7297,
@@ -133,7 +148,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 4481,
@@ -150,7 +168,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 20097,
@@ -201,7 +222,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 10369,
@@ -218,7 +242,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3250000,
-        "sale_gold": null
+        "sale_gold": null,
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 23425,
@@ -269,7 +296,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1662500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [14977],
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 5761,
@@ -286,7 +317,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1740000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [5505],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 641,
@@ -303,7 +338,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1740000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [385],
+        "tree": {
+            "row": 8
+        }
     },
     {
         "dev_id": 6785,
@@ -354,7 +393,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1750000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [17793],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 12929,
@@ -371,7 +414,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1785000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13185],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 7553,
@@ -388,7 +435,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1780500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [7297],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 4225,
@@ -405,7 +456,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1800000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [4481],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 23169,
@@ -490,7 +545,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1755000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [19585],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 10625,
@@ -507,7 +566,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1740000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [10369],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 15489,
@@ -524,7 +587,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1050000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [15233],
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 6017,
@@ -541,7 +608,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1205000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [5761],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 897,
@@ -558,7 +629,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1205000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [641],
+        "tree": {
+            "row": 8
+        }
     },
     {
         "dev_id": 2945,
@@ -643,7 +718,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1300000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [17281],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 13697,
@@ -660,7 +739,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1290000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [12929],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 7809,
@@ -677,7 +760,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1283900,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [7553],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 3457,
@@ -694,7 +781,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1276000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [4225],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 9089,
@@ -779,7 +870,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1280000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [19329],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 10881,
@@ -796,7 +891,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 1205000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [10625],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 19841,
@@ -864,7 +963,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 650000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [15489],
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 6273,
@@ -881,7 +984,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 710000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [6017],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 3969,
@@ -898,7 +1005,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 675000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [3457],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 1153,
@@ -915,7 +1026,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 710000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [897],
+        "tree": {
+            "row": 8
+        }
     },
     {
         "dev_id": 9601,
@@ -966,7 +1081,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 725000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [17025],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 13953,
@@ -983,7 +1102,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 745000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13697],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 8321,
@@ -1000,7 +1123,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 715000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [7809],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 9857,
@@ -1034,7 +1161,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 700000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [19073],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 11137,
@@ -1051,7 +1182,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 710000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [10881],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 16001,
@@ -1068,7 +1203,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [15745],
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 6529,
@@ -1085,7 +1224,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [6273],
+        "tree": {
+            "row": 6
+        }
     },
     {
         "dev_id": 3713,
@@ -1102,7 +1245,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 465250,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [3969],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 1409,
@@ -1119,7 +1266,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1153, 17537],
+        "tree": {
+            "row": 7
+        }
     },
     {
         "dev_id": 13441,
@@ -1238,7 +1389,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [13953],
+        "tree": {
+            "row": 5
+        }
     },
     {
         "dev_id": 8065,
@@ -1255,7 +1410,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 450000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [8321],
+        "tree": {
+            "row": 4
+        }
     },
     {
         "dev_id": 16257,
@@ -1289,7 +1448,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 455000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [18817],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 11393,
@@ -1306,7 +1469,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 460000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [11137],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 14465,
@@ -1323,7 +1490,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 225000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [16001],
+        "tree": {
+            "row": 9
+        }
     },
     {
         "dev_id": 1921,
@@ -1340,7 +1511,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1409, 3713, 6529, 8065, 14209],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 18305,
@@ -1357,7 +1532,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [18561],
+        "tree": {
+            "row": 2
+        }
     },
     {
         "dev_id": 11649,
@@ -1374,7 +1553,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 200000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [11393, 18305],
+        "tree": {
+            "row": 1
+        }
     },
     {
         "dev_id": 1665,
@@ -1391,7 +1574,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 42500,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1921, 11649, 14465],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 2177,
@@ -1408,7 +1595,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 3000,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [1665],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 2433,
@@ -1425,7 +1616,11 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 600,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [2177],
+        "tree": {
+            "row": 3
+        }
     },
     {
         "dev_id": 2689,
@@ -1442,6 +1637,10 @@
         "restoration_credits": null,
         "restoration_gold": null,
         "sale_credits": 0,
-        "sale_gold": null
+        "sale_gold": null,
+        "next": [2433],
+        "tree": {
+            "row": 3
+        }
     }
 ]
