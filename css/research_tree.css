@@ -41,6 +41,7 @@ html, body {
 #version-selector {
     padding: 6px 10px;
     border-radius: 5px;
+    user-select: none;
 }
 
 #menu-toggle {
@@ -158,6 +159,7 @@ html, body {
     display: flex;
     align-items: center;
     gap: 6px;
+    user-select: none;
 }
 
 .tank-class-icon {

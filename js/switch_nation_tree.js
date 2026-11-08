@@ -1,19 +1,27 @@
 import { nationList } from "./nations.js";
 
+export const unavailableNationsByVersion = {
+    "5.4": ["european", "other"]
+};
+
+export function getUnavailableNations(version) {
+    return unavailableNationsByVersion[version] || [];
+}
+
+export function getAvailableNations(version) {
+    const unavailableNations = getUnavailableNations(version);
+
+    return nationList.filter(
+        nation => !unavailableNations.includes(nation.id)
+    );
+}
+
 export function initNationSelector(currentNation, version = "current") {
     const selector = document.getElementById("nation-selector");
 
     selector.innerHTML = "";
 
-    const unavailableNations54 = ["european", "other"];
-
-    const availableNations = nationList.filter(nation => {
-        if (version === "5.4" && unavailableNations54.includes(nation.id)) {
-            return false;
-        }
-
-        return true;
-    });
+    const availableNations = getAvailableNations(version);
 
     availableNations.forEach(nation => {
         const button = document.createElement("button");
@@ -25,7 +33,7 @@ export function initNationSelector(currentNation, version = "current") {
         }
 
         button.innerHTML =`
-            <img src="img/flags/tank_tree/5.4/${nation.id}.webp" alt="${nation.label}" draggable="false" />
+            <img src="../img/flags/tank_tree/5.4/${nation.id}.webp" alt="${nation.label}" draggable="false" loading="lazy" />
         `;
 
         button.addEventListener("click", () => {

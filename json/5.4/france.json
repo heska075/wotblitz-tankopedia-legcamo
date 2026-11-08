@@ -1,0 +1,511 @@
+[
+    {
+        "dev_id": 3649,
+        "national_id": 14,
+        "letter_id": "F18",
+        "full_name": "Bat.-Châtillon 25 t",
+        "short_name": "B-C 25 t",
+        "tier": "X",
+        "class": "Light",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 8513,
+        "national_id": 33,
+        "letter_id": "F72",
+        "full_name": "AMX 30 B",
+        "short_name": "AMX 30 B",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6209,
+        "national_id": 24,
+        "letter_id": "F10",
+        "full_name": "AMX 50 B",
+        "short_name": "AMX 50 B",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 13889,
+        "national_id": 54,
+        "letter_id": "F64",
+        "full_name": "AMX 50 Foch (155)",
+        "short_name": "Foch 155",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 1857,
+        "national_id": 7,
+        "letter_id": "F75",
+        "full_name": "Bat.-Châtillon 25 t AP",
+        "short_name": "B-C 25 t AP",
+        "tier": "IX",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [3649],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 5441,
+        "national_id": 21,
+        "letter_id": "F71",
+        "full_name": "AMX 30 1er prototype",
+        "short_name": "AMX 30 1er prot.",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 3905,
+        "national_id": 15,
+        "letter_id": "F09",
+        "full_name": "AMX 50 120",
+        "short_name": "AMX 50 120",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [6209],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 11073,
+        "national_id": 43,
+        "letter_id": "F37",
+        "full_name": "AMX 50 Foch",
+        "short_name": "Foch",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [13889],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 4929,
+        "national_id": 19,
+        "letter_id": "F17",
+        "full_name": "AMX 13 90",
+        "short_name": "AMX 13 90",
+        "tier": "VIII",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1857],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 64065,
+        "national_id": 250,
+        "letter_id": "F65",
+        "full_name": "FCM 50 t",
+        "short_name": "FCM 50 t",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 63553,
+        "national_id": 248,
+        "letter_id": "F68",
+        "full_name": "AMX Chasseur de chars",
+        "short_name": "AMX CDC",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 16193,
+        "national_id": 63,
+        "letter_id": "F73",
+        "full_name": "M4A1 Revalorisé",
+        "short_name": "M4A1 Rev.",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 8001,
+        "national_id": 31,
+        "letter_id": "F19",
+        "full_name": "Lorraine 40 t",
+        "short_name": "Lorraine 40 t",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 3137,
+        "national_id": 12,
+        "letter_id": "F08",
+        "full_name": "AMX 50 100",
+        "short_name": "AMX 50 100",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [3905],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 16705,
+        "national_id": 65,
+        "letter_id": "F74",
+        "full_name": "AMX M4 mle. 49",
+        "short_name": "AMX M4 49",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 12097,
+        "national_id": 47,
+        "letter_id": "F36",
+        "full_name": "AMX AC mle. 48",
+        "short_name": "AMX AC 48",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [11073],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5185,
+        "national_id": 20,
+        "letter_id": "F16",
+        "full_name": "AMX 13 75",
+        "short_name": "AMX 13 75",
+        "tier": "VII",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [4929],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 16449,
+        "national_id": 64,
+        "letter_id": "F69",
+        "full_name": "AMX 13 57",
+        "short_name": "AMX 13 57",
+        "tier": "VII",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6977,
+        "national_id": 27,
+        "letter_id": "F07",
+        "full_name": "AMX M4 mle. 45",
+        "short_name": "AMX M4 45",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [3137],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 10817,
+        "national_id": 42,
+        "letter_id": "F35",
+        "full_name": "AMX AC mle. 46",
+        "short_name": "AMX AC 46",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [12097],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 6465,
+        "national_id": 25,
+        "letter_id": "F15",
+        "full_name": "AMX 12 t",
+        "short_name": "AMX 12 t",
+        "tier": "VI",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [5185],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 2625,
+        "national_id": 10,
+        "letter_id": "F06",
+        "full_name": "ARL 44",
+        "short_name": "ARL 44",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [6977],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 11585,
+        "national_id": 45,
+        "letter_id": "F34",
+        "full_name": "ARL V39",
+        "short_name": "ARL V39",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [10817],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 14145,
+        "national_id": 55,
+        "letter_id": "F62",
+        "full_name": "AMX ELC bis",
+        "short_name": "AMX ELC bis",
+        "tier": "V",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [6465],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 6721,
+        "national_id": 26,
+        "letter_id": "F05",
+        "full_name": "BDR G1 B",
+        "short_name": "BDR G1 B",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2625],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 10049,
+        "national_id": 39,
+        "letter_id": "F33",
+        "full_name": "S35 CA",
+        "short_name": "S35 CA",
+        "tier": "V",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [11585],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 2881,
+        "national_id": 11,
+        "letter_id": "F14",
+        "full_name": "AMX 40",
+        "short_name": "AMX 40",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [14145],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 1089,
+        "national_id": 4,
+        "letter_id": "F04",
+        "full_name": "B1",
+        "short_name": "B1",
+        "tier": "IV",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [6721],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 9793,
+        "national_id": 38,
+        "letter_id": "F32",
+        "full_name": "Somua SAu 40",
+        "short_name": "SAu 40",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [10049],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5953,
+        "national_id": 23,
+        "letter_id": "F13",
+        "full_name": "AMX 38",
+        "short_name": "AMX 38",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2881],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 321,
+        "national_id": 1,
+        "letter_id": "F03",
+        "full_name": "D2",
+        "short_name": "D2",
+        "tier": "III",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1089],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 8257,
+        "national_id": 32,
+        "letter_id": "F52",
+        "full_name": "Renault UE 57",
+        "short_name": "UE 57",
+        "tier": "III",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9793],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 2369,
+        "national_id": 9,
+        "letter_id": "F27",
+        "full_name": "FCM 36 Pak 40",
+        "short_name": "FCM36Pak40",
+        "tier": "III",
+        "class": "TD",
+        "type": "Premium"
+    },
+
+
+
+    {
+        "dev_id": 15937,
+        "national_id": 62,
+        "letter_id": "F49",
+        "full_name": "Renault R35",
+        "short_name": "R35",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [5953],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 1601,
+        "national_id": 6,
+        "letter_id": "F02",
+        "full_name": "D1",
+        "short_name": "D1",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [321],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 7745,
+        "national_id": 30,
+        "letter_id": "F30",
+        "full_name": "Renault FT AC",
+        "short_name": "FT AC",
+        "tier": "II",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8257],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 577,
+        "national_id": 2,
+        "letter_id": "F01",
+        "full_name": "Renault FT",
+        "short_name": "FT",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1601, 7745, 15937],
+        "tree": {
+            "row": 2
+        }
+    }
+]

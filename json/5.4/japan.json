@@ -1,0 +1,233 @@
+[
+    {
+        "dev_id": 3681,
+        "national_id": 14,
+        "letter_id": "J16",
+        "full_name": "STB-1",
+        "short_name": "STB-1",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3425,
+        "national_id": 13,
+        "letter_id": "J14",
+        "full_name": "Type 61",
+        "short_name": "Type 61",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [3681],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 2657,
+        "national_id": 10,
+        "letter_id": "J13",
+        "full_name": "STA-1",
+        "short_name": "STA-1",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [3425],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 1121,
+        "national_id": 4,
+        "letter_id": "J11",
+        "full_name": "Type 5 Chi-Ri",
+        "short_name": "Chi-Ri",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [2657],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 1889,
+        "national_id": 7,
+        "letter_id": "J10",
+        "full_name": "Type 4 Chi-To",
+        "short_name": "Chi-To",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1121],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 63585,
+        "national_id": 248,
+        "letter_id": "G04",
+        "full_name": "Kuro Mori Mine",
+        "short_name": "Kuro Mori Mine",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1377,
+        "national_id": 5,
+        "letter_id": "J08",
+        "full_name": "Type 3 Chi-Nu",
+        "short_name": "Chi-Nu",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1889],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 65377,
+        "national_id": 255,
+        "letter_id": "J12",
+        "full_name": "Type 3 Chi-Nu Kai",
+        "short_name": "Chi-Nu Kai",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 63841,
+        "national_id": 249,
+        "letter_id": "G81",
+        "full_name": "Panzer IV Anko Special",
+        "short_name": "Pz. IV Anko SP",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 2913,
+        "national_id": 11,
+        "letter_id": "J06",
+        "full_name": "Type 5 Ke-Ho",
+        "short_name": "Ke-Ho",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1377],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 1633,
+        "national_id": 6,
+        "letter_id": "J09",
+        "full_name": "Type 1 Chi-He",
+        "short_name": "Chi-He",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1377],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 52065,
+        "national_id": 203,
+        "letter_id": "G09",
+        "full_name": "Hetzer Kame SP",
+        "short_name": "Hetzer Kame SP",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 2401,
+        "national_id": 9,
+        "letter_id": "J04",
+        "full_name": "Type 98 Ke-Ni",
+        "short_name": "Ke-Ni",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2913],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 51809,
+        "national_id": 202,
+        "letter_id": "J05",
+        "full_name": "Type 98 Ke-Ni Otsu",
+        "short_name": "Ke-Ni Otsu",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 2145,
+        "national_id": 8,
+        "letter_id": "J07",
+        "full_name": "Type 97 Chi-Ha",
+        "short_name": "Chi-Ha",
+        "tier": "III",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1633],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 865,
+        "national_id": 3,
+        "letter_id": "J03",
+        "full_name": "Type 95 Ha-Go",
+        "short_name": "Ha-Go",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2401],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 353,
+        "national_id": 1,
+        "letter_id": "J15",
+        "full_name": "Chi-Ni",
+        "short_name": "Chi-Ni",
+        "tier": "II",
+        "class": "Medium",
+        "type":"Tech Tree",
+        "next": [2145],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 609,
+        "national_id": 2,
+        "letter_id": "J01",
+        "full_name": "Renault Otsu",
+        "short_name": "R. Otsu",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [353, 865],
+        "tree": {
+            "row": 2
+        }
+    }
+]

@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="css/style.css" type="text/css" />
         <!--<link rel="stylesheet" href="css/research_tree.css" type="text/css" />-->
         <link rel="shortcut icon" href="img/favicon/favicon.ico" />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="https://heska075.github.io/wotblitz-tankopedia-legcamo/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="WoTB Tankopedia w/ Legendary Camouflages" />
         <meta property="og:description" content="A page listing all tanks in World of Tanks Blitz with the addition of legendary camouflages." />
@@ -22,7 +22,8 @@
                 <button id="menu-toggle">☰</button>
 
                 <div id="side-menu" class="side-menu">
-                    <a href="research_tree.html">Tech Tree</a>
+                    <a href="tech_tree/">Tech Tree</a>
+                    <!--<a href="game_modes/">Game Modes</a>-->
                 </div>
             </div>
 
@@ -33,6 +34,11 @@
 
         <main class="main-wrapper">
             <div id="tabs"></div>
+
+            <div id="tank-count">
+                <span id="visible-tanks"></span> of
+                <span id="total-tanks"></span> total tanks.
+            </div>
 
             <div id="holidaySeperator"></div>
 
@@ -73,6 +79,7 @@
         </main>
 
         <script type="module" src="js/script.js" defer></script>
+        <script type="module" src="../js/side_menu.js"></script>
         <script src="js/click_data.js" defer></script>
         <script src="js/game_version.js" defer></script>
     </body>

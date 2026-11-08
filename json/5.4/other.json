@@ -1,0 +1,152 @@
+[
+    {
+        "dev_id": 3953,
+        "national_id": 15,
+        "letter_id": "Oth11",
+        "full_name": "T 55A",
+        "short_name": "T 55A",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1905,
+        "national_id": 7,
+        "letter_id": null,
+        "full_name": "O-47",
+        "short_name": "O-47",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 63601,
+        "national_id": 248,
+        "letter_id": null,
+        "full_name": "Dracula",
+        "short_name": "Dracula",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4465,
+        "national_id": 17,
+        "letter_id": "Oth12",
+        "full_name": "Hafen",
+        "short_name": "Hafen",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 881,
+        "national_id": 3,
+        "letter_id": null,
+        "full_name": "Edelweiss",
+        "short_name": "Edelweiss",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 3697,
+        "national_id": 14,
+        "letter_id": "Oth06",
+        "full_name": "Lupus",
+        "short_name": "Lupus",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1393,
+        "national_id": 5,
+        "letter_id": null,
+        "full_name": "Nameless",
+        "short_name": "Nameless",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1137,
+        "national_id": 4,
+        "letter_id": "Oth09",
+        "full_name": "Predator Ultramarines",
+        "short_name": "Predator UM",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4721,
+        "national_id": 18,
+        "letter_id": "Oth14",
+        "full_name": "Gravedigger",
+        "short_name": "Gravedigger",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Collector"
+    },
+    {
+        "dev_id": 2161,
+        "national_id": 8,
+        "letter_id": null,
+        "full_name": "WZ 135G FT Blaze",
+        "short_name": "WZ Blaze",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1649,
+        "national_id": 6,
+        "letter_id": null,
+        "full_name": "Helsing",
+        "short_name": "Helsing",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 113,
+        "national_id": 0,
+        "letter_id": "Oth08",
+        "full_name": "Vindicator Ultramarines",
+        "short_name": "Vindicator UM",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 625,
+        "national_id": 2,
+        "letter_id": null,
+        "full_name": "Stridsvagn 74A2",
+        "short_name": "Strv 74A2",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4977,
+        "national_id": 19,
+        "letter_id": "Oth15",
+        "full_name": "Scavenger",
+        "short_name": "Scavenger",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Collector"
+    },
+    {
+        "dev_id": 4209,
+        "national_id": 16,
+        "letter_id": "Oth10",
+        "full_name": "WarDuck",
+        "short_name": "WarDuck",
+        "tier": "I",
+        "class": "Medium",
+        "type": "Event"
+    }
+]

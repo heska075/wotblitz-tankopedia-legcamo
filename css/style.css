@@ -149,6 +149,20 @@ h1 {
     color: #fff;
 }
 
+#tank-count {
+    text-align: center;
+    margin: 12px 0 20px;
+    color: #aaa;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#visible-tanks,
+#total-tanks {
+    color: #fff;
+    font-variant-numeric: tabular-nums;
+}
+
 #tankGrid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

@@ -1,0 +1,296 @@
+[
+    {
+        "dev_id": 4145,
+        "national_id": 16,
+        "letter_id": "Ch19",
+        "full_name": "WZ-121",
+        "short_name": "WZ-121",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 5681,
+        "national_id": 22,
+        "letter_id": "Ch25",
+        "full_name": "121B",
+        "short_name": "121B",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 5425,
+        "national_id": 21,
+        "letter_id": "Ch22",
+        "full_name": "WZ-113",
+        "short_name": "WZ-113",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 6449,
+        "national_id": 25,
+        "letter_id": "Ch38",
+        "full_name": "WZ-113G FT",
+        "short_name": "WZ-113G FT",
+        "tier": "X",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1841,
+        "national_id": 7,
+        "letter_id": "Ch18",
+        "full_name": "WZ-120",
+        "short_name": "WZ-120",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [4145],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 2097,
+        "national_id": 8,
+        "letter_id": "Ch12",
+        "full_name": "WZ-111 model 1-4",
+        "short_name": "WZ-111 1-4",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [5425],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 1585,
+        "national_id": 6,
+        "letter_id": "Ch05",
+        "full_name": "T-34-2",
+        "short_name": "T-34-2",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1841],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 6193,
+        "national_id": 24,
+        "letter_id": "Ch14",
+        "full_name": "T-34-3",
+        "short_name": "T-34-3",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 5937,
+        "national_id": 23,
+        "letter_id": "Ch26",
+        "full_name": "59-Patton",
+        "short_name": "59-Patton",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 49,
+        "national_id": 0,
+        "letter_id": "Ch01",
+        "full_name": "Type 59",
+        "short_name": "Type 59",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 2865,
+        "national_id": 11,
+        "letter_id": "Ch11",
+        "full_name": "WZ-110",
+        "short_name": "WZ-110",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2097],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 64561,
+        "national_id": 252,
+        "letter_id": "Ch23",
+        "full_name": "112 Glacial",
+        "short_name": "112 Glacial",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 817,
+        "national_id": 3,
+        "letter_id": "Ch03",
+        "full_name": "WZ-111",
+        "short_name": "WZ-111",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6961,
+        "national_id": 27,
+        "letter_id": "Ch39",
+        "full_name": "WZ-120-1G FT",
+        "short_name": "WZ-120-1G FT",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 65329,
+        "national_id": 255,
+        "letter_id": "Ch02",
+        "full_name": "Type 62",
+        "short_name": "Type 62",
+        "tier": "VII",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1073,
+        "national_id": 4,
+        "letter_id": "Ch04",
+        "full_name": "T-34-1",
+        "short_name": "T-34-1",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1585],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3633,
+        "national_id": 14,
+        "letter_id": "Ch10",
+        "full_name": "IS-2",
+        "short_name": "IS-2",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2865],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 2609,
+        "national_id": 10,
+        "letter_id": "Ch24",
+        "full_name": "Type 64",
+        "short_name": "Type 64",
+        "tier": "VI",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 5169,
+        "national_id": 20,
+        "letter_id": "Ch20",
+        "full_name": "Type 58",
+        "short_name": "Type 58",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1073, 3633],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 4657,
+        "national_id": 18,
+        "letter_id": "Ch21",
+        "full_name": "Type T-34",
+        "short_name": "Type T-34",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5169],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3121,
+        "national_id": 12,
+        "letter_id": "Ch09",
+        "full_name": "M5A1 Stuart",
+        "short_name": "M5A1 Stuart",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [4657],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 4401,
+        "national_id": 17,
+        "letter_id": "Ch08",
+        "full_name": "Type 2597 Chi-Ha",
+        "short_name": "Chi-Ha",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [3121],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 2353,
+        "national_id": 9,
+        "letter_id": "Ch07",
+        "full_name": "Vickers Mk. E Type B",
+        "short_name": "VAE Type B",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [4401],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 1329,
+        "national_id": 5,
+        "letter_id": "Ch06",
+        "full_name": "Renault NC-31",
+        "short_name": "NC-31",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2353],
+        "tree": {
+            "row": 2
+        }
+    }
+]

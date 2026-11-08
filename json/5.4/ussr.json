@@ -1,0 +1,922 @@
+[
+    {
+        "dev_id": 16897,
+        "national_id": 66,
+        "letter_id": "R97",
+        "full_name": "Object 140",
+        "short_name": "Obj. 140",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 13825,
+        "national_id": 54,
+        "letter_id": "R87",
+        "full_name": "T-62A",
+        "short_name": "T-62A",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 7169,
+        "national_id": 28,
+        "letter_id": "R45",
+        "full_name": "IS-7",
+        "short_name": "IS-7",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 6
+        }
+    },
+    {
+        "dev_id": 6145,
+        "national_id": 24,
+        "letter_id": "R90",
+        "full_name": "IS-4",
+        "short_name": "IS-4",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 7
+        }
+    },
+    {
+        "dev_id": 14337,
+        "national_id": 56,
+        "letter_id": "R93",
+        "full_name": "Object 263",
+        "short_name": "Obj. 263",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 13569,
+        "national_id": 53,
+        "letter_id": "R88",
+        "full_name": "Object 268",
+        "short_name": "Obj. 268",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 7937,
+        "national_id": 31,
+        "letter_id": "R40",
+        "full_name": "T-54",
+        "short_name": "T-54",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [13825, 16897],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 11521,
+        "national_id": 45,
+        "letter_id": "R81",
+        "full_name": "IS-8",
+        "short_name": "IS-8",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [7169],
+        "tree": {
+            "row": 6
+        }
+    },
+    {
+        "dev_id": 10753,
+        "national_id": 42,
+        "letter_id": "R63",
+        "full_name": "ST-I",
+        "short_name": "ST-I",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [6145],
+        "tree": {
+            "row": 7
+        }
+    },
+    {
+        "dev_id": 12545,
+        "national_id": 49,
+        "letter_id": null,
+        "full_name": "K-91",
+        "short_name": "K-91",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 12033,
+        "national_id": 47,
+        "letter_id": "R75",
+        "full_name": "SU-122-54",
+        "short_name": "SU-122-54",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [14337],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 8193,
+        "national_id": 32,
+        "letter_id": "R53",
+        "full_name": "Object 704",
+        "short_name": "Obj. 704",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [13569],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 18177,
+        "national_id": 71,
+        "letter_id": "R109",
+        "full_name": "T-54 ltwt.",
+        "short_name": "T-54 ltwt.",
+        "tier": "VIII",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [7937],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 4353,
+        "national_id": 17,
+        "letter_id": "R20",
+        "full_name": "T-44",
+        "short_name": "T-44",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [7937],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 62977,
+        "national_id": 246,
+        "letter_id": "R127",
+        "full_name": "T-44-100",
+        "short_name": "T-44-100",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 59905,
+        "national_id": 234,
+        "letter_id": "R112",
+        "full_name": "T-54 first prototype",
+        "short_name": "T-54 mod. 1",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 11009,
+        "national_id": 43,
+        "letter_id": "R73",
+        "full_name": "KV-4",
+        "short_name": "KV-4",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [10753],
+        "tree": {
+            "row": 7
+        }
+    },
+    {
+        "dev_id": 5377,
+        "national_id": 21,
+        "letter_id": "R19",
+        "full_name": "IS-3",
+        "short_name": "IS-3",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [11521],
+        "tree": {
+            "row": 6
+        }
+    },
+    {
+        "dev_id": 64769,
+        "national_id": 253,
+        "letter_id": "R61",
+        "full_name": "IS-6 Fearless",
+        "short_name": "IS-6 Fearless",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 60417,
+        "national_id": 236,
+        "letter_id": "R115",
+        "full_name": "IS-3 Defender",
+        "short_name": "IS-3 Defender",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 60161,
+        "national_id": 235,
+        "letter_id": "R139",
+        "full_name": "IS-2Sh",
+        "short_name": "IS-2Sh",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 58881,
+        "national_id": 230,
+        "letter_id": "R113",
+        "full_name": "IS-5 (Object 730)",
+        "short_name": "IS-5",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 53249,
+        "national_id": 208,
+        "letter_id": "R54",
+        "full_name": "KV-5",
+        "short_name": "KV-5",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 9217,
+        "national_id": 36,
+        "letter_id": "R61",
+        "full_name": "IS-6",
+        "short_name": "IS-6",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 9985,
+        "national_id": 39,
+        "letter_id": "R58",
+        "full_name": "SU-101",
+        "short_name": "SU-101",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [12033],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 7425,
+        "national_id": 29,
+        "letter_id": "R47",
+        "full_name": "ISU-152",
+        "short_name": "ISU-152",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8193],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 18945,
+        "national_id": 74,
+        "letter_id": "R111",
+        "full_name": "ISU-130",
+        "short_name": "ISU-130",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 18433,
+        "national_id": 72,
+        "letter_id": "R107",
+        "full_name": "LTTB",
+        "short_name": "LTTB",
+        "tier": "VII",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [18177],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 8961,
+        "national_id": 35,
+        "letter_id": "R46",
+        "full_name": "KV-13",
+        "short_name": "KV-13",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [513, 6657],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 6657,
+        "national_id": 26,
+        "letter_id": "R23",
+        "full_name": "T-43",
+        "short_name": "T-43",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [4353],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 64001,
+        "national_id": 250,
+        "letter_id": "R07",
+        "full_name": "T-34-85 Rudy",
+        "short_name": "T-34-85 Rudy",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 5889,
+        "national_id": 23,
+        "letter_id": "R39",
+        "full_name": "KV-3",
+        "short_name": "KV-3",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [11009],
+        "tree": {
+            "row": 7
+        }
+    },
+    {
+        "dev_id": 513,
+        "national_id": 2,
+        "letter_id": "R01",
+        "full_name": "IS",
+        "short_name": "IS",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [5377],
+        "tree": {
+            "row": 6
+        }
+    },
+    {
+        "dev_id": 59137,
+        "national_id": 231,
+        "letter_id": "R71",
+        "full_name": "IS-2 (1945)",
+        "short_name": "IS-2 (1945)",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 10241,
+        "national_id": 40,
+        "letter_id": "R74",
+        "full_name": "SU-100M1",
+        "short_name": "SU-100M1",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9985],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 2305,
+        "national_id": 9,
+        "letter_id": "R18",
+        "full_name": "SU-152",
+        "short_name": "SU-152",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [7425],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 59649,
+        "national_id": 233,
+        "letter_id": "R116",
+        "full_name": "ISU-122S",
+        "short_name": "ISU-122S",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 55297,
+        "national_id": 216,
+        "letter_id": "R89",
+        "full_name": "SU-122-44",
+        "short_name": "SU-122-44",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 16641,
+        "national_id": 65,
+        "letter_id": "R101",
+        "full_name": "MT-25",
+        "short_name": "MT-25",
+        "tier": "VI",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [18433],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 2561,
+        "national_id": 10,
+        "letter_id": "R07",
+        "full_name": "T-34-85",
+        "short_name": "T-34-85",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [6657, 8961],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 64257,
+        "national_id": 251,
+        "letter_id": "R07",
+        "full_name": "T-34-85 Victory",
+        "short_name": "T-34-85 Victory",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 11265,
+        "national_id": 44,
+        "letter_id": "R72",
+        "full_name": "T-150",
+        "short_name": "T-150",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [5889],
+        "tree": {
+            "row": 7
+        }
+    },
+    {
+        "dev_id": 10497,
+        "national_id": 41,
+        "letter_id": "R77",
+        "full_name": "KV-2",
+        "short_name": "KV-2",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [11265],
+        "tree": {
+            "row": 6
+        }
+    },
+    {
+        "dev_id": 2817,
+        "national_id": 11,
+        "letter_id": "R13",
+        "full_name": "KV-1S",
+        "short_name": "KV-1S",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [513, 8961],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 3585,
+        "national_id": 14,
+        "letter_id": "R17",
+        "full_name": "SU-100",
+        "short_name": "SU-100",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [2305, 10241],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 54785,
+        "national_id": 214,
+        "letter_id": "R49",
+        "full_name": "SU-100Y",
+        "short_name": "SU-100Y",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 1,
+        "national_id": 0,
+        "letter_id": "R04",
+        "full_name": "T-34",
+        "short_name": "T-34",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [257, 2561, 16641],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 51457,
+        "national_id": 201,
+        "letter_id": "R32",
+        "full_name": "Matilda IV",
+        "short_name": "Matilda IV",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium",
+        "tree": {
+            "row": -1
+        }
+    },
+    {
+        "dev_id": 11777,
+        "national_id": 46,
+        "letter_id": "R80",
+        "full_name": "KV-1",
+        "short_name": "KV-1",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2817, 10497, 11265],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 51713,
+        "national_id": 202,
+        "letter_id": "R33",
+        "full_name": "Churchill III",
+        "short_name": "Churchill III",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 51201,
+        "national_id": 200,
+        "letter_id": "R38",
+        "full_name": "KV-220 Beta-Test",
+        "short_name": "KV-220 T",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 257,
+        "national_id": 1,
+        "letter_id": "R02",
+        "full_name": "SU-85",
+        "short_name": "SU-85",
+        "tier": "V",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [3585],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 53761,
+        "national_id": 210,
+        "letter_id": "R78",
+        "full_name": "SU-85I",
+        "short_name": "SU-85I",
+        "tier": "V",
+        "class": "TD",
+        "type": "Premium",
+        "tree": {
+            "row": -2
+        }
+    },
+    {
+        "dev_id": 2049,
+        "national_id": 8,
+        "letter_id": "R12",
+        "full_name": "A-20",
+        "short_name": "A-20",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 52481,
+        "national_id": 205,
+        "letter_id": "R31",
+        "full_name": "Valentine II",
+        "short_name": "Valentine II",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 1537,
+        "national_id": 6,
+        "letter_id": "R06",
+        "full_name": "T-28",
+        "short_name": "T-28",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [11777],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 52993,
+        "national_id": 207,
+        "letter_id": "R68",
+        "full_name": "A-32",
+        "short_name": "A-32",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6913,
+        "national_id": 27,
+        "letter_id": "R25",
+        "full_name": "SU-85B",
+        "short_name": "SU-85B",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [257],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3073,
+        "national_id": 12,
+        "letter_id": "R22",
+        "full_name": "T-46",
+        "short_name": "T-46",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1537],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 769,
+        "national_id": 3,
+        "letter_id": "R03",
+        "full_name": "BT-7",
+        "short_name": "BT-7",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2049],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 60929,
+        "national_id": 238,
+        "letter_id": "R105",
+        "full_name": "BT-7 artillery",
+        "short_name": "BT-7 art.",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 56577,
+        "national_id": 221,
+        "letter_id": "R86",
+        "full_name": "LTP",
+        "short_name": "LTP",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 53505,
+        "national_id": 209,
+        "letter_id": "R56",
+        "full_name": "T-127",
+        "short_name": "T-127",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 52737,
+        "national_id": 206,
+        "letter_id": "R67",
+        "full_name": "M3 Light",
+        "short_name": "M3 Light",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 52225,
+        "national_id": 204,
+        "letter_id": "R34",
+        "full_name": "BT-SV",
+        "short_name": "BT-SV",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 18689,
+        "national_id": 73,
+        "letter_id": "R43",
+        "full_name": "T-70/57",
+        "short_name": "T-70/57",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6401,
+        "national_id": 25,
+        "letter_id": "R24",
+        "full_name": "SU-76",
+        "short_name": "SU-76",
+        "tier": "III",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [6913],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 54273,
+        "national_id": 212,
+        "letter_id": "R50",
+        "full_name": "SU-76I",
+        "short_name": "SU-76I",
+        "tier": "III",
+        "class": "TD",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4609,
+        "national_id": 18,
+        "letter_id": "R09",
+        "full_name": "T-26",
+        "short_name": "T-26",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [3073],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 1025,
+        "national_id": 4,
+        "letter_id": "R08",
+        "full_name": "BT-2",
+        "short_name": "BT-2",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [769],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 54529,
+        "national_id": 213,
+        "letter_id": "R84",
+        "full_name": "Tetrarch",
+        "short_name": "Tetrarch",
+        "tier": "II",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 5121,
+        "national_id": 20,
+        "letter_id": "R10",
+        "full_name": "AT-1",
+        "short_name": "AT-1",
+        "tier": "II",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [6401],
+        "tree": {
+            "row": 2
+        }
+    },
+
+
+
+    {
+        "dev_id": 3329,
+        "national_id": 13,
+        "letter_id": "R11",
+        "full_name": "MS-1",
+        "short_name": "MS-1",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1025, 4609, 5121],
+        "tree": {
+            "row": 3
+        }
+    }
+]

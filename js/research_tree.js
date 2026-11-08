@@ -1,6 +1,7 @@
 /* import { version } from "react"; */
 import {
-    initNationSelector
+    initNationSelector,
+    getAvailableNations
 } from "./switch_nation_tree.js";
 
 const params =
@@ -12,14 +13,21 @@ const version =
     params.get("version")
     || "current";
 
-const nation =
+let nation =
     params.get("nation")
     || "usa";
 
-const unavailableNations54 = ["european", "other"];
+const availableNations = getAvailableNations(version);
 
-if (version === "5.4" && unavailableNations54.includes(nation)) {
-    nation = "usa";
+if (!availableNations.some(
+    availableNation => availableNation.id === nation
+)) {
+    nation = availableNations.find(
+        availableNation => availableNation.id === "usa"
+    )?.id
+    || availableNations[0]?.id
+    || "usa";
+
     params.set("nation", nation);
     window.history.replaceState(
         {},
@@ -30,15 +38,18 @@ if (version === "5.4" && unavailableNations54.includes(nation)) {
 
 initNationSelector(nation, version);
 
-
-
-const versionSelector =
-    document.getElementById("version-selector");
+const versionSelector = document.getElementById("version-selector");
 
 if (versionSelector) {
+    Array.from(versionSelector.options).forEach(option => {
+        const availableNations = getAvailableNations(option.value);
+        option.hidden = !availableNations.some(
+            availableNation => availableNation.id === nation
+        );
+    });
 
     versionSelector.value = version;
-
+    
     versionSelector.addEventListener(
         "change",
         () => {
@@ -59,6 +70,7 @@ if (versionSelector) {
     );
 }
 
+/*
 const menuToggle =
     document.getElementById("menu-toggle");
 
@@ -74,14 +86,15 @@ if (menuToggle && sideMenu) {
         }
     );
 }
+*/
 
 /* const response =
     await fetch(`json/${nation}.json`); */
 
 const jsonPath =
     version === "current"
-        ? `json/${nation}.json`
-        : `json/${version}/${nation}.json`;
+        ? `../json/${nation}.json`
+        : `../json/${version}/${nation}.json`;
 
 const response = await fetch(jsonPath);
 
@@ -187,19 +200,19 @@ treeTanks.forEach(tank => {
 
     const tankImagePath =
         version === "current"
-            ? `img/tanks/${nation}/${tank.dev_id}.webp`
-            : `img/tanks/${version}/${nation}/${tank.dev_id}.webp`;
+            ? `../img/tanks/${nation}/${tank.dev_id}.webp`
+            : `../img/tanks/${version}/${nation}/${tank.dev_id}.webp`;
 
     node.innerHTML = `
         <div class="tank-info">
             <strong>${tank.short_name}</strong>
             <div class="tank-meta">
-                <div class="tank-class-icon" style="background-image: url('img/tank_class/${iconName}.svg')" alt="${tank.class}"></div>
+                <div class="tank-class-icon" style="background-image: url('../img/tank_class/${iconName}.svg')" alt="${tank.class}"></div>
                 <span>${tank.tier}</span>
             </div>
         </div>
         
-        <img class="tt-image" src="${tankImagePath}" draggable="false" data-fallback="img/tanks/${nation}/${tank.dev_id}.webp" onerror="if (this.src.includes('placeholder/Placeholder.webp')) return; this.src = this.dataset.fallback;" />
+        <img class="tt-image" src="${tankImagePath}" draggable="false" loading="lazy" data-fallback="../img/tanks/placeholder/Placeholder.webp" onerror="if (this.src.includes('placeholder/Placeholder.webp')) return; this.src = this.dataset.fallback;" />
     `;
 
     container.appendChild(node);
@@ -316,6 +329,12 @@ function drawConnection(parentId, childId) {
     const childRow =
         tankMap[childId].tree.row;
 
+    const horizontalIncoming = incoming.filter(
+        id => tankMap[id].tier !== tankMap[childId].tier
+    );
+
+    const horizontalIndex = horizontalIncoming.indexOf(parentId);
+
     let yOffset = 0;
 
     if (incoming.length === 2) {
@@ -366,7 +385,28 @@ function drawConnection(parentId, childId) {
         svgRect.top +
         childRect.height / 2;
 
-    if (incoming.length === 2) {
+    // if (incoming.length === 2) {
+
+    //     if (parentRow < childRow) {
+    //         y2 -= 20;
+    //     }
+    //     else if (parentRow > childRow) {
+    //         y2 += 20;
+    //     }
+
+    // }
+    // else if (incoming.length === 3) {
+
+    //     if (connectionIndex === 0) {
+    //         y2 -= 15;
+    //     }
+    //     else if (connectionIndex === 2) {
+    //         y2 += 15;
+    //     }
+
+    // }
+
+    if (horizontalIncoming.length === 2) {
 
         if (parentRow < childRow) {
             y2 -= 20;
@@ -376,12 +416,12 @@ function drawConnection(parentId, childId) {
         }
 
     }
-    else if (incoming.length === 3) {
+    else if (horizontalIncoming.length === 3) {
 
-        if (connectionIndex === 0) {
+        if (horizontalIndex === 0) {
             y2 -= 15;
         }
-        else if (connectionIndex === 2) {
+        else if (horizontalIndex === 2) {
             y2 += 15;
         }
 

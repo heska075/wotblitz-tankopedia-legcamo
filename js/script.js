@@ -1,7 +1,25 @@
 import { nationList } from "./nations.js";
 
+function updateTankCount(nationName = null) {
+    const visibleElement = document.getElementById("visible-tanks");
+    const totalElement = document.getElementById("total-tanks");
+
+    // Count all tank objects across all loaded nations
+    const total = Object.values(nations)
+        .reduce((sum, tanks) => sum + tanks.length, 0);
+
+    // Count tanks in the selected nation
+    const visible = nationName
+        ? (nations[nationName]?.length ?? 0)
+        : total;
+
+    visibleElement.textContent = visible.toLocaleString("en-US");
+    totalElement.textContent = total.toLocaleString("en-US");
+}
+
 let nations = {};
 
+/*
 const menuToggle =
     document.getElementById("menu-toggle");
 
@@ -17,6 +35,7 @@ if (menuToggle && sideMenu) {
         }
     );
 }
+*/
 
 window.addEventListener("DOMContentLoaded", () => {
     loadAllNations();
@@ -36,6 +55,7 @@ async function loadAllNations() {
         }
     }
 
+    updateTankCount();
     buildTabs();
 }
 
@@ -79,6 +99,8 @@ function showNation(nationName) {
     grid.innerHTML = "";
 
     const tankList = nations[nationName];
+
+    updateTankCount(nationName);
 
     if (!Array.isArray(tankList)) {
         console.warn("No tanks found for nation:", nationName);
@@ -162,7 +184,7 @@ function openPricePopup(tank, folderName, devId) {
         const row = document.createElement("tr");
         row.innerHTML = `
             <td>${entry.label}</td>
-            <td class="value-cell"><p>${formatNumber(value)}</p> <img class="currency-icon" src="img/currency/${entry.icon}.webp" draggable="false"></td>
+            <td class="value-cell"><p>${formatNumber(value)}</p> <img class="currency-icon" src="img/currency/${entry.icon}.webp" draggable="false" loading="lazy"></td>
         `;
         priceBody.appendChild(row);
     });

@@ -1,0 +1,654 @@
+[
+    {
+        "dev_id": 7249,
+        "national_id": 28,
+        "letter_id": "GB70",
+        "full_name": "FV4202",
+        "short_name": "FV4202",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 6225,
+        "national_id": 24,
+        "letter_id": "GB13",
+        "full_name": "FV215b",
+        "short_name": "FV215b",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 15697,
+        "national_id": 61,
+        "letter_id": "GB84",
+        "full_name": "Chieftain Mk.6",
+        "short_name": "Chieftain Mk.6",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 9297,
+        "national_id": 36,
+        "letter_id": "GB48",
+        "full_name": "FV215b (183)",
+        "short_name": "FV215b 183",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5713,
+        "national_id": 22,
+        "letter_id": "GB24",
+        "full_name": "Centurion Mk. 7/1",
+        "short_name": "Centurion 7/1",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [7249],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 4433,
+        "national_id": 17,
+        "letter_id": "GB12",
+        "full_name": "Conqueror",
+        "short_name": "Conqueror",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [6225],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 52561,
+        "national_id": 205,
+        "letter_id": "GB32",
+        "full_name": "Tortoise",
+        "short_name": "Tortoise",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9297],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5969,
+        "national_id": 23,
+        "letter_id": "GB23",
+        "full_name": "Centurion Mk. I",
+        "short_name": "Centurion I",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5713],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 3921,
+        "national_id": 15,
+        "letter_id": "GB11",
+        "full_name": "Caernarvon",
+        "short_name": "Caernarvon",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [4433],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 15441,
+        "national_id": 60,
+        "letter_id": "GB87",
+        "full_name": "Chieftain/T95",
+        "short_name": "Chieftain",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 8529,
+        "national_id": 33,
+        "letter_id": "GB72",
+        "full_name": "AT 15",
+        "short_name": "AT 15",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [52561],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5457,
+        "national_id": 21,
+        "letter_id": "GB22",
+        "full_name": "Comet",
+        "short_name": "Comet",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5969],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 3153,
+        "national_id": 12,
+        "letter_id": "GB10",
+        "full_name": "Black Prince",
+        "short_name": "Black Prince",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [3921],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 15953,
+        "national_id": 62,
+        "letter_id": "GB52",
+        "full_name": "FV201 (A45)",
+        "short_name": "FV201 (A45)",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 10065,
+        "national_id": 39,
+        "letter_id": "GB75",
+        "full_name": "AT 7",
+        "short_name": "AT 7",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8529],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 54097,
+        "national_id": 211,
+        "letter_id": "GB71",
+        "full_name": "AT 15A",
+        "short_name": "AT 15A",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+
+
+
+    {
+        "dev_id": 1105,
+        "national_id": 4,
+        "letter_id": "GB21",
+        "full_name": "Cromwell",
+        "short_name": "Cromwell",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5457],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 593,
+        "national_id": 2,
+        "letter_id": "GB19",
+        "full_name": "Sherman Firefly",
+        "short_name": "Sherman Firefly",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5457],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 64337,
+        "national_id": 251,
+        "letter_id": "GB35",
+        "full_name": "AC IV Sentinel",
+        "short_name": "AC IV Sentinel",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 55889,
+        "national_id": 218,
+        "letter_id": "GB85",
+        "full_name": "Cromwell B",
+        "short_name": "Cromwell B",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4689,
+        "national_id": 18,
+        "letter_id": "GB09",
+        "full_name": "Churchill VII",
+        "short_name": "Churchill VII",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [3153],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 53841,
+        "national_id": 210,
+        "letter_id": "GB63",
+        "full_name": "TOG II*",
+        "short_name": "TOG II*",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 1361,
+        "national_id": 5,
+        "letter_id": null,
+        "full_name": "Churchill Mk. VI",
+        "short_name": "Churchill Mk. VI",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 9809,
+        "national_id": 38,
+        "letter_id": "GB40",
+        "full_name": "Churchill Gun Carrier",
+        "short_name": "Churchill GC",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [10065],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 9553,
+        "national_id": 37,
+        "letter_id": "GB74",
+        "full_name": "AT 8",
+        "short_name": "AT 8",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [10065],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 2129,
+        "national_id": 8,
+        "letter_id": "GB20",
+        "full_name": "Crusader",
+        "short_name": "Crusader",
+        "tier": "V",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1105],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 1617,
+        "national_id": 6,
+        "letter_id": null,
+        "full_name": "Sherman V",
+        "short_name": "Sherman V",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [593],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 53585,
+        "national_id": 209,
+        "letter_id": "GB68",
+        "full_name": "Matilda Black Prince",
+        "short_name": "Matilda BP",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium",
+        "tree": {
+            "row": -1
+        }
+    },
+    {
+        "dev_id": 2897,
+        "national_id": 11,
+        "letter_id": "GB08",
+        "full_name": "Churchill I",
+        "short_name": "Churchill I",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [4689, 9809],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 54353,
+        "national_id": 212,
+        "letter_id": "GB51",
+        "full_name": "Excelsior",
+        "short_name": "Excelsior",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 8785,
+        "national_id": 34,
+        "letter_id": "GB73",
+        "full_name": "AT 2",
+        "short_name": "AT 2",
+        "tier": "V",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9553],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 64593,
+        "national_id": 252,
+        "letter_id": "GB44",
+        "full_name": "Angry Connor",
+        "short_name": "Angry Connor",
+        "tier": "V",
+        "class": "TD",
+        "type": "Premium"
+    },
+
+
+
+    {
+        "dev_id": 6481,
+        "national_id": 25,
+        "letter_id": "GB60",
+        "full_name": "Covenanter",
+        "short_name": "Covenanter",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2129],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 4945,
+        "national_id": 19,
+        "letter_id": "GB04",
+        "full_name": "Valentine",
+        "short_name": "Valentine",
+        "tier": "IV",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [1617],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 849,
+        "national_id": 3,
+        "letter_id": "GB07",
+        "full_name": "Matilda",
+        "short_name": "Matilda",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [2897],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 64849,
+        "national_id": 253,
+        "letter_id": null,
+        "full_name": "AC 1 Sentinel",
+        "short_name": "AC 1 Sentinel",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 9041,
+        "national_id": 35,
+        "letter_id": "GB57",
+        "full_name": "Alecto",
+        "short_name": "Alecto",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8785],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 7505,
+        "national_id": 29,
+        "letter_id": "GB59",
+        "full_name": "Cruiser Mk. IV",
+        "short_name": "Cruiser IV",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [6481],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 6993,
+        "national_id": 27,
+        "letter_id": "GB69",
+        "full_name": "Cruiser Mk. II",
+        "short_name": "Cruiser II",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [4945],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 2385,
+        "national_id": 9,
+        "letter_id": "GB06",
+        "full_name": "Vickers Medium Mk. III",
+        "short_name": "Medium III",
+        "tier": "III",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [849],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 8017,
+        "national_id": 31,
+        "letter_id": "GB42",
+        "full_name": "Valentine AT",
+        "short_name": "Valentine AT",
+        "tier": "III",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9041],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 7761,
+        "national_id": 30,
+        "letter_id": "GB58",
+        "full_name": "Cruiser Mk. III",
+        "short_name": "Cruiser III",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [7505],
+        "tree": {
+            "row": 4
+        }
+    },
+    {
+        "dev_id": 5201,
+        "national_id": 20,
+        "letter_id": "GB03",
+        "full_name": "Cruiser Mk. I",
+        "short_name": "Cruiser I",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [6993],
+        "tree": {
+            "row": 5
+        }
+    },
+    {
+        "dev_id": 54865,
+        "national_id": 214,
+        "letter_id": "GB76",
+        "full_name": "Light Mk. VIC",
+        "short_name": "Light VIC",
+        "tier": "II",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 337,
+        "national_id": 1,
+        "letter_id": "GB05",
+        "full_name": "Vickers Medium Mk. II",
+        "short_name": "Medium II",
+        "tier": "II",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [2385],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 8273,
+        "national_id": 32,
+        "letter_id": "GB39",
+        "full_name": "Universal Carrier 2-pdr",
+        "short_name": "UC 2-pdr",
+        "tier": "II",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8017],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 81,
+        "national_id": 0,
+        "letter_id": "GB01",
+        "full_name": "Vickers Medium Mk. I",
+        "short_name": "Medium I",
+        "tier": "I",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [337, 5201, 7761, 8273],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 64081,
+        "national_id": 250,
+        "letter_id": null,
+        "full_name": "Mk I* Heavy Tank",
+        "short_name": "Mk I* Heavy Tank",
+        "tier": "I",
+        "class": "Heavy",
+        "type": "Premium"
+    }
+]
