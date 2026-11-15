@@ -1,7 +1,8 @@
 import { nationList } from "./nations.js";
 
 export const unavailableNationsByVersion = {
-    "5.4": ["european", "other"]
+    "5.4": ["european", "other"],
+    "1.0": ["china", "european", "france", "japan", "other", "uk"]
 };
 
 export function getUnavailableNations(version) {
@@ -42,6 +43,7 @@ export function initNationSelector(currentNation, version = "current") {
             const params = new URLSearchParams(window.location.search);
             params.set("nation", nation.id);
             window.location.search = params.toString();
+            // window.location.href = `/tech_tree/${version}/${nation.id}`;
         });
 
         selector.appendChild(button);

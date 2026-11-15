@@ -1,0 +1,442 @@
+[
+    {
+        "dev_id": 14113,
+        "national_id": 55,
+        "letter_id": "A84",
+        "full_name": "M48A1 Patton",
+        "short_name": "M48 Patton",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 10785,
+        "national_id": 42,
+        "letter_id": "A69",
+        "full_name": "T110E5",
+        "short_name": "T110E5",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 13857,
+        "national_id": 54,
+        "letter_id": "A85",
+        "full_name": "T110E3",
+        "short_name": "T110E3",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 8993,
+        "national_id": 35,
+        "letter_id": "A63",
+        "full_name": "M46 Patton",
+        "short_name": "M46 Patton",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [14113],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 9505,
+        "national_id": 37,
+        "letter_id": "A66",
+        "full_name": "M103",
+        "short_name": "M103",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [10785],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 8737,
+        "national_id": 34,
+        "letter_id": "A40",
+        "full_name": "T95",
+        "short_name": "T95",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [13857],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 5921,
+        "national_id": 23,
+        "letter_id": "A35",
+        "full_name": "M26 Pershing",
+        "short_name": "Pershing",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [8993],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 4385,
+        "national_id": 17,
+        "letter_id": "A12",
+        "full_name": "T32",
+        "short_name": "T32",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [9505],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 2849,
+        "national_id": 11,
+        "letter_id": "A13",
+        "full_name": "T34",
+        "short_name": "T34",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 8225,
+        "national_id": 32,
+        "letter_id": "A39",
+        "full_name": "T28",
+        "short_name": "T28",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8737],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 1569,
+        "national_id": 6,
+        "letter_id": "A07",
+        "full_name": "T20",
+        "short_name": "T20",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [5921],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3873,
+        "national_id": 15,
+        "letter_id": "A11",
+        "full_name": "T29",
+        "short_name": "T29",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [4385],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 9249,
+        "national_id": 36,
+        "letter_id": "A64",
+        "full_name": "T25 AT",
+        "short_name": "T25 AT",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [8225],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 1313,
+        "national_id": 5,
+        "letter_id": "A06",
+        "full_name": "M4A3E8 Sherman",
+        "short_name": "M4A3E8",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1569, 7201],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 801,
+        "national_id": 3,
+        "letter_id": "A10",
+        "full_name": "M6",
+        "short_name": "M6",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [3873],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 7201,
+        "national_id": 28,
+        "letter_id": "A31",
+        "full_name": "M36 Jackson",
+        "short_name": "Jackson",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [9249],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 1057,
+        "national_id": 4,
+        "letter_id": "A05",
+        "full_name": "M4 Sherman",
+        "short_name": "M4",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1313],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 52257,
+        "national_id": 204,
+        "letter_id": "A44",
+        "full_name": "M4A2E4 Sherman",
+        "short_name": "M4A2E4",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 51745,
+        "national_id": 202,
+        "letter_id": "A62",
+        "full_name": "Ram II",
+        "short_name": "Ram II",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 3361,
+        "national_id": 13,
+        "letter_id": "A09",
+        "full_name": "T1 Heavy Tank",
+        "short_name": "T1 Heavy",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [801],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 6945,
+        "national_id": 27,
+        "letter_id": "A30",
+        "full_name": "M10 Wolverine",
+        "short_name": "Wolverine",
+        "tier": "V",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [7201],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 3105,
+        "national_id": 12,
+        "letter_id": "A04",
+        "full_name": "M3 Lee",
+        "short_name": "M3 Lee",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1057, 3361],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 7713,
+        "national_id": 30,
+        "letter_id": "A29",
+        "full_name": "T40",
+        "short_name": "T40",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [6945],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 52769,
+        "national_id": 206,
+        "letter_id": "A43",
+        "full_name": "M22 Locust",
+        "short_name": "Locust",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 4897,
+        "national_id": 19,
+        "letter_id": "A25",
+        "full_name": "M2 Medium Tank",
+        "short_name": "M2 Medium",
+        "tier": "III",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [3105],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 6433,
+        "national_id": 25,
+        "letter_id": "A27",
+        "full_name": "T82",
+        "short_name": "T82",
+        "tier": "III",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [7713],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 53537,
+        "national_id": 209,
+        "letter_id": "A74",
+        "full_name": "T1E6",
+        "short_name": "T1E6",
+        "tier": "II",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 51489,
+        "national_id": 201,
+        "letter_id": "A19",
+        "full_name": "T2 Light Tank",
+        "short_name": "T2 Light",
+        "tier": "II",
+        "class": "Light",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 5665,
+        "national_id": 22,
+        "letter_id": "A24",
+        "full_name": "T2 Medium Tank",
+        "short_name": "T2 Medium",
+        "tier": "II",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [4897],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 6177,
+        "national_id": 24,
+        "letter_id": "A26",
+        "full_name": "T18",
+        "short_name": "T18",
+        "tier": "II",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [6433],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 545,
+        "national_id": 2,
+        "letter_id": "A01",
+        "full_name": "T1 Cunningham",
+        "short_name": "T1",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [5665, 6177],
+        "tree": {
+            "row": 2
+        }
+    }
+]

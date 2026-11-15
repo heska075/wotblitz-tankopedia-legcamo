@@ -1,0 +1,474 @@
+[
+    {
+        "dev_id": 12305,
+        "national_id": 48,
+        "letter_id": "G73",
+        "full_name": "E 50 Ausf. M",
+        "short_name": "E 50 M",
+        "tier": "X",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 9489,
+        "national_id": 37,
+        "letter_id": "G56",
+        "full_name": "E 100",
+        "short_name": "E 100",
+        "tier": "X",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 12049,
+        "national_id": 47,
+        "letter_id": "G72",
+        "full_name": "Jagdpanzer E 100",
+        "short_name": "Jg.Pz. E 100",
+        "tier": "X",
+        "class": "TD",
+        "type": "Tech Tree",
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 10257,
+        "national_id": 40,
+        "letter_id": "G54",
+        "full_name": "E 50",
+        "short_name": "E 50",
+        "tier": "IX",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [12305],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 9745,
+        "national_id": 38,
+        "letter_id": "G55",
+        "full_name": "E 75",
+        "short_name": "E 75",
+        "tier": "IX",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [9489],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 7953,
+        "national_id": 31,
+        "letter_id": "G44",
+        "full_name": "Jagdtiger",
+        "short_name": "Jagdtiger",
+        "tier": "IX",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [12049],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 8465,
+        "national_id": 33,
+        "letter_id": "G64",
+        "full_name": "Panther II",
+        "short_name": "Panther II",
+        "tier": "VIII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [10257],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 5137,
+        "national_id": 20,
+        "letter_id": "G16",
+        "full_name": "Tiger II",
+        "short_name": "Tiger II",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [9745],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 54289,
+        "national_id": 212,
+        "letter_id": "G51",
+        "full_name": "Löwe",
+        "short_name": "Löwe",
+        "tier": "VIII",
+        "class": "Heavy",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 7697,
+        "national_id": 30,
+        "letter_id": "G37",
+        "full_name": "Ferdinand",
+        "short_name": "Ferdinand",
+        "tier": "VIII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [7953],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 1297,
+        "national_id": 5,
+        "letter_id": "G03",
+        "full_name": "Panther I",
+        "short_name": "Panther",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [8465],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 57617,
+        "national_id": 225,
+        "letter_id": "G78",
+        "full_name": "Panther/M10",
+        "short_name": "Panther/M10",
+        "tier": "VII",
+        "class": "Medium",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 529,
+        "national_id": 2,
+        "letter_id": "G04",
+        "full_name": "Tiger I",
+        "short_name": "Tiger I",
+        "tier": "VII",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [5137],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3857,
+        "national_id": 15,
+        "letter_id": "G18",
+        "full_name": "Jagdpanther",
+        "short_name": "JPanther",
+        "tier": "VII",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [7697],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 15889,
+        "national_id": 62,
+        "letter_id": "G96",
+        "full_name": "VK 30.02 (M)",
+        "short_name": "VK 30.02 M",
+        "tier": "VI",
+        "class": "Medium",
+        "type": "Tech Tree",
+        "next": [1297],
+        "tree": {
+            "row": 3
+        }
+    },
+    {
+        "dev_id": 2321,
+        "national_id": 9,
+        "letter_id": "G15",
+        "full_name": "VK 36.01 (H)",
+        "short_name": "VK 36.01 H",
+        "tier": "VI",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [529],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 1553,
+        "national_id": 6,
+        "letter_id": "G17",
+        "full_name": "Jagdpanzer IV",
+        "short_name": "Jg.Pz. IV",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [3857],
+        "tree": {
+            "row": 1
+        }
+    },
+    {
+        "dev_id": 57105,
+        "national_id": 223,
+        "letter_id": "G41",
+        "full_name": "Dicker Max",
+        "short_name": "Dicker Max",
+        "tier": "VI",
+        "class": "TD",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+
+
+
+    {
+        "dev_id": 6417,
+        "national_id": 25,
+        "letter_id": "G28",
+        "full_name": "Pz.Kpfw. III/IV",
+        "short_name": "Pz. III/IV",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Tech Tree"
+    },
+    {
+        "dev_id": 55057,
+        "national_id": 215,
+        "letter_id": "G70",
+        "full_name": "Pz.Kpfw. IV hydrostat.",
+        "short_name": "Pz. IV hydr.",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 54545,
+        "national_id": 213,
+        "letter_id": "G46",
+        "full_name": "T-25",
+        "short_name": "T-25",
+        "tier": "V",
+        "class": "Medium",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 2577,
+        "national_id": 10,
+        "letter_id": "G13",
+        "full_name": "VK 30.01 (H)",
+        "short_name": "VK 30.01 H",
+        "tier": "V",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2321, 15889],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 1041,
+        "national_id": 4,
+        "letter_id": "G05",
+        "full_name": "StuG III Ausf. G",
+        "short_name": "StuG III G",
+        "tier": "V",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [1553],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 4369,
+        "national_id": 17,
+        "letter_id": "G10",
+        "full_name": "Pz.Kpfw. III",
+        "short_name": "Pz. III",
+        "tier": "IV",
+        "class": "Medium",
+        "type": "Tech Tree"
+    },
+    {
+        "dev_id": 13329,
+        "national_id": 52,
+        "letter_id": "G90",
+        "full_name": "Durchbruchswagen 2",
+        "short_name": "D.W. 2",
+        "tier": "IV",
+        "class": "Heavy",
+        "type": "Tech Tree",
+        "next": [2577],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 52241,
+        "national_id": 204,
+        "letter_id": "G35",
+        "full_name": "Pz.Kpfw. B2 740 (f)",
+        "short_name": "Pz. B2",
+        "tier": "IV",
+        "class": "Heavy",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 1809,
+        "national_id": 7,
+        "letter_id": "G09",
+        "full_name": "Hetzer",
+        "short_name": "Hetzer",
+        "tier": "IV",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [1041, 16145],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 4881,
+        "national_id": 19,
+        "letter_id": "G14",
+        "full_name": "Pz.Kpfw. III Ausf. A",
+        "short_name": "Pz. III A",
+        "tier": "III",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [13329],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 54801,
+        "national_id": 214,
+        "letter_id": "G50",
+        "full_name": "T-15",
+        "short_name": "T-15",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium",
+        "tree": {
+            "row": 0
+        }
+    },
+    {
+        "dev_id": 51729,
+        "national_id": 202,
+        "letter_id": "G36",
+        "full_name": "Pz.Kpfw. II Ausf. J",
+        "short_name": "Pz. II J",
+        "tier": "III",
+        "class": "Light",
+        "type": "Premium"
+    },
+    {
+        "dev_id": 6673,
+        "national_id": 26,
+        "letter_id": "G20",
+        "full_name": "Marder II",
+        "short_name": "Marder II",
+        "tier": "III",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [1809],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 2065,
+        "national_id": 8,
+        "letter_id": "G06",
+        "full_name": "Pz.Kpfw. II",
+        "short_name": "Pz. II",
+        "tier": "II",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [4881],
+        "tree": {
+            "row": 2
+        }
+    },
+    {
+        "dev_id": 3601,
+        "national_id": 14,
+        "letter_id": "G21",
+        "full_name": "Panzerjäger I",
+        "short_name": "Pz.Jäg. I",
+        "tier": "II",
+        "class": "TD",
+        "type": "Tech Tree",
+        "next": [6673],
+        "tree": {
+            "row": 1
+        }
+    },
+
+
+
+    {
+        "dev_id": 3089,
+        "national_id": 12,
+        "letter_id": "G12",
+        "full_name": "Leichttraktor",
+        "short_name": "L.Tr.",
+        "tier": "I",
+        "class": "Light",
+        "type": "Tech Tree",
+        "next": [2065, 3601],
+        "tree": {
+            "row": 2
+        }
+    }
+]

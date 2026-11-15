@@ -17,6 +17,10 @@ let nation =
     params.get("nation")
     || "usa";
 
+// const pathParts = window.location.pathname.split("/").filter(Boolean);
+// const version = pathParts.at(-2) || "current";
+// let nation = pathParts.at(-1) || "usa";
+
 const availableNations = getAvailableNations(version);
 
 if (!availableNations.some(
@@ -33,6 +37,7 @@ if (!availableNations.some(
         {},
         "",
         `${window.location.pathname}?${params.toString()}`
+        // `/tech_tree/${version}/${nation}`
     );
 }
 
@@ -68,6 +73,11 @@ if (versionSelector) {
                 params.toString();
         }
     );
+
+    // versionSelector.addEventListener("change", () => {
+    //     window.location.href =
+    //         `/tech_tree/${versionSelector.value}/${nation}`;
+    // });
 }
 
 /*

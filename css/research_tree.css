@@ -111,6 +111,7 @@ html, body {
     width: 220px;
     height: 90px;
     border: 1px solid #666;
+    border-radius: 5px;
     background: linear-gradient(180deg, #1B3920, #204424);
     color: white;
     padding: 5px;
@@ -226,19 +227,62 @@ html, body {
     justify-content: center;
 }
 
+.nation-button::before {
+    content: "";
+    position: absolute;
+    inset: -5px -14px;
+    z-index: -1;
+}
+
 .nation-button img {
+    position: relative;
     width: 75%;
     height: 75%;
     object-fit: contain;
     user-select: none;
 }
 
+.nation-button.active {
+    isolation: isolate;
+}
+
+.nation-button.active img {
+    filter:
+        drop-shadow(0 0 1px rgba(255, 255, 255, 0.8))
+        drop-shadow(0 0 2px rgba(0, 0, 0, 0.9));
+}
+
 .nation-button.active::after {
     content: "";
     position: absolute;
-    top: 0;
-    right: -14px;
-    width: 4px;
-    height: 100%;
-    background: orange;
+    inset: -5px -14px;
+    height: calc(100% + 10px);
+    border-right: 4px solid orange;
+}
+
+.nation-button.active::before {
+    content: "";
+    position: absolute;
+    inset: -5px -14px;
+    z-index: -1;
+    background: linear-gradient(
+        to bottom,
+        #591a13 0%,
+        #591a13 12%,
+        #741c14 12%,
+        #741c14 35%,
+        #801d14 35%,
+        #801d14 65%,
+        #702017 65%,
+        #702017 90%,
+        #501a13 90%,
+        #501a13 100%
+    );
+
+    mask-image: linear-gradient(
+        to right,
+        transparent 0%,
+        black 125%,
+        black 100%
+    );
 }
